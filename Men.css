@@ -1,0 +1,382 @@
+/* body */
+
+body {
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1.2rem;
+    margin: -1px;
+    text-align: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-image: url(./refMenPage/Jeff\ Sheldon\ Men\ HTML\ bodyBackGround.jpg);
+    background-position: center;
+}
+
+/* body */
+
+/* header */
+
+header {
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+
+header h1 {
+    font-size: 12rem;
+    font-weight: 400;
+    color: #000;
+    background-color: #f9e4bc5c;
+    margin-top: 0;
+    padding-top: 2%;
+    border-bottom: 3px solid #fff;
+    text-decoration: line-through;
+    text-decoration-thickness: 2%;
+}
+
+/* header */
+
+/* navbar */
+
+nav {
+    font-size: 0.9rem;
+    letter-spacing: 0;
+}
+
+nav li {
+    list-style: none;
+}
+nav a {
+    text-decoration: none;
+}
+
+.navLinks {
+    display: flex;
+    gap: 1%;
+    background-color: #e3e3e3;
+    border-bottom: 3px solid #fff;
+    position: fixed;
+    width: 100%;
+    height: 2%;
+    top: 0;
+    margin: 0;
+    padding: 0.4% 1.5%;
+}
+
+.navTitle {
+    color: #000;
+    border: 1px solid #e3e3e3;
+    padding: 5%;
+}
+
+.navTitle:hover {
+    text-decoration: underline;
+}
+
+#personal {
+    display: flex;
+    position: absolute;
+    right: 3%;
+    margin: 0%;
+    width: 25%;
+    border: 2px solid red;
+}
+
+#personal a {
+    width: 100%;
+    height: 50%;
+    margin: 0% 5%;
+    padding: 0% 2%;
+    color: #000;
+    border: 2px solid red;
+}
+
+#personal a:hover {
+    text-decoration: underline;
+}
+
+/* navbar */
+
+/* men tops */
+
+.topsBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.navyKnittedSweaterCont a {
+    width: 12%;
+}
+
+.blackPufferJacketCont a {
+    width: 12%;
+}
+
+.topsBackground a:hover {
+    text-decoration: underline;
+}
+
+.topsBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.topsHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.topsMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* heartbreak shirt */
+
+.heartBreakCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.heartBreakCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.heartBreakImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+
+/* heartbreak shirt */
+
+/* black shirt */
+
+.blackShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.blackShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.blackShirtImg img {
+    width: 314px;
+    border: 2px solid #fff;
+}
+
+/* black shirt */
+
+/* white shirt */
+
+.whiteShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.whiteShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.whiteShirtImg img {
+    width: 314px;
+    border: 2px solid #fff;
+}
+
+/* white shirt */
+
+/* beige hoodie */
+
+.beigeHoodieCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.beigeHoodieCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.beigeHoodieImg img {
+    width: 314px;
+    border: 2px solid #fff;
+}
+
+/* beige hoodie */
+
+/* its clothing hoodie */
+
+.itsClothingHoodieCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.itsClothingHoodieCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.itsClothingHoodieImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+
+/* its clothing hoodie */
+
+/* denim jacket */
+
+.denimJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.denimJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.denimJacketImg img {
+    width: 314px;
+    border: 2px solid #fff;
+}
+
+/* denim jacket */
+
+/* navy knitted sweater */
+
+.navyKnittedSweaterCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.navyKnittedSweaterCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.navyKnittedSweaterImg img {
+    width: 356px;
+    border: 2px solid #fff;
+}
+
+/* navy knitted sweater */
+
+/* black puffer jacket */
+
+.blackPufferJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.blackPufferJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.blackPufferJacketImg img {
+    width: 356px;
+    border: 2px solid #fff;
+}
+
+/* black puffer jacket */
+
+/* men tops */
+
+
+
+
+
+
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f9e4bc5c;
+    border-top: 2px solid #fff;
+    font-size: 0.9rem;
+    letter-spacing: 0.5rem;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.footerContLeft {
+    margin: 0% 0% 0% 1%;
+    padding: 0.5% 1%;
+}
+
+.footerContRight {
+    margin: 0% 1% 0% 0%;
+    padding: 0.5% 1%;
+}
+
+/* footer */

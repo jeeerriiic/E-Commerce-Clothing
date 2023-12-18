@@ -1,0 +1,404 @@
+/* body */
+
+body {
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1.2rem;
+    margin: -1px;
+    text-align: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-image: url(./refHomePage/Amanda\ Vick\ bodyBackGround.jpg);
+    background-position: center;
+}
+
+/* body */
+
+/* header */
+
+header {
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+
+header h1 {
+    font-size: 12rem;
+    font-weight: 400;
+    color: #000;
+    background-color: #f9e4bc5c;
+    margin-top: 0;
+    padding-top: 2%;
+    border-bottom: 3px solid #fff;
+    text-decoration: line-through;
+    text-decoration-thickness: 2%;
+}
+
+/* header */
+
+/* navbar */
+
+nav {
+    font-size: 0.9rem;
+    letter-spacing: 0;
+}
+
+nav li {
+    list-style: none;
+}
+nav a {
+    text-decoration: none;
+}
+
+.navLinks {
+    display: flex;
+    gap: 1%;
+    background-color: #e3e3e3;
+    border-bottom: 3px solid #fff;
+    position: fixed;
+    width: 100%;
+    height: 2%;
+    top: 0;
+    margin: 0;
+    padding: 0.4% 1.5%;
+}
+
+.navTitle {
+    color: #000;
+    border: 1px solid #e3e3e3;
+    padding: 5%;
+}
+
+.navTitle:hover {
+    text-decoration: underline;
+}
+
+#personal {
+    position: absolute;
+    right: 3%;
+    width: 20%;
+}
+
+#personal a {
+    margin: 0% 4%;
+    padding: 0% 2%;
+    color: #000;
+}
+
+#personal a:hover {
+    text-decoration: underline;
+}
+
+/* navbar */
+
+/* men section */
+
+.MEN {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding: 0% 2% 2% 2%;
+    background-color: #00000055;
+}
+
+.menHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin-right: 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* men tops */
+.menTopsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+}
+
+.menTopsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.menTopsImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+/* men tops */
+
+/* men pants */
+.menPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 25%;
+    margin: 0% 3.9%;
+}
+
+.menPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.menPantsImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+/* men pants */
+
+/* men accessories */
+.menAccessoriesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 22%;
+}
+
+.menAccessoriesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.menAccessoriesImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+/* men accessories */
+
+/* men section */
+
+/* women section */
+
+.WOMEN {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding: 0% 2% 2% 2%;
+    background-color: #00000055;
+}
+
+.womenHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin-right: 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* women tops */
+
+.womenTopsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+}
+
+.womenTopsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-bottom: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.womenTopsImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+
+/* women tops */
+
+/* women pants */
+
+.womenPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    margin: 0% 2.4%;
+}
+
+.womenPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-bottom: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.womenPantsImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+
+/* women pants */
+
+/* women accessories */
+
+.womenAccessoriesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 20%;
+}
+
+.womenAccessoriesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-bottom: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.womenAccessoriesImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+
+/* women accessories */
+
+/* women section */
+
+/* kids section */
+
+.KIDS {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding: 0% 2% 2% 2%;
+    background-color: #00000055;
+}
+
+.kidsHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin-right: 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* kids tops */
+
+.kidsTopsCont {
+    width: 40%;
+}
+
+.kidsTopsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-bottom: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.kidsTopsImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+
+/* kids tops */
+
+/* kids pants */
+
+.kidsPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    margin: 0% 2.4%;
+}
+
+.kidsPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-bottom: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.kidsPantsImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+
+/* kids pants */
+
+/* kids accessories */
+
+.kidsAccessoriesCont {
+    width: 20%;
+}
+
+.kidsAccessoriesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-bottom: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff;
+}
+
+.kidsAccessoriesImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+
+/* kids accessories */
+
+/* kids section */
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f9e4bc5c;
+    border-top: 2px solid #fff;
+    font-size: 0.9rem;
+    letter-spacing: 0.5rem;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.footerContLeft {
+    margin: 0% 0% 0% 1%;
+    padding: 0.5% 1%;
+}
+
+.footerContRight {
+    margin: 0% 1% 0% 0%;
+    padding: 0.5% 1%;
+}
+
+/* footer */

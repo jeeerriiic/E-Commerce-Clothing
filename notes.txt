@@ -1,0 +1,65 @@
+!! TODAY !!
+12/12/2023
+√look for kids tops, pants, accessories images
+√figure out layout for kids section
+
+12/13/2023
+√look for images for tops category
+√start men html
+√finish men header and navbar
+√add contact
+√start on men tops container
+
+12/14/2023
+√finish tops container
+    √adjust navy knitted sweater and black puffer jacket anchor<a> √widths
+    √adjust letter spacing for anchors
+look for images for pants category
+
+
+
+
+!! NOT PRIORITY !!
+fix scroll margin top for men, women, and kids navbar links
+
+create seperate html/css for each section
+all categories will have 4-6 items in total and have a bottom scrollbar
+set up scrollbar to scroll left and right within each container
+
+create log in and sign up html/css landing page
+
+
+
+
+
+NAVBAR
+    √add hover effects
+    √create a home button link to header
+
+HEADER
+    √make background color transparent
+    √times new roman, serif font
+
+SECTIONS
+√PRIORITY -- LOOK FOR PICTURES FOR EACH CATEGORY
+!! TURN CATEGORIES INTO LINKS TO ANOTHER HTML FOR THERE RESPECTIVE CATEGORY !!
+
+men section
+    √FINISH MENS SECTION TODAY 12/11/2023
+    √WORKING ON PANTS SECTION
+    √images
+    √work on mens section CSS
+    √tops, pants, accessories
+
+women section
+    √tops, pants, accessories
+
+kids section 
+    √tops, pants, accessories
+
+FOOTER
+√left side
+    project name & references
+
+√right side
+    contact
