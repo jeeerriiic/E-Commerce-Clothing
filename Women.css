@@ -97,10 +97,145 @@ nav a {
 
 /* navbar */
 
+/* women tops */
 
+.topsBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
 
+.topsBackground a:hover {
+    text-decoration: underline;
+}
 
+.topsBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
 
+.topsHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.topsMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* women tops */
+
+/* women pants */
+
+.pantsBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.pantsBackground a:hover {
+    text-decoration: underline;
+}
+
+.pantsBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.pantsHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.pantsMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* women pants */
+
+/* women accessories */
+
+.accessoriesBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.accessoriesBackground a:hover {
+    text-decoration: underline;
+}
+
+.accessoriesBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.accessoriesHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.accessoriesMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* women accessories */
 
 /* footer */
 
