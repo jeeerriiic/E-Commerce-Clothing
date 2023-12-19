@@ -74,13 +74,19 @@ nav a {
 }
 
 #personal {
+    display: flex;
     position: absolute;
     right: 3%;
-    width: 20%;
+    margin: 0%;
+    width: 25%;
+    min-width: 10%;
+    max-height: 20px;
+    white-space: nowrap;
 }
 
 #personal a {
-    margin: 0% 4%;
+    width: 100%;
+    margin: 0% 5%;
     padding: 0% 2%;
     color: #000;
 }
