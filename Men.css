@@ -150,7 +150,6 @@ nav a {
 /* MAIN CONTAINER */
 
 /* heartbreak shirt */
-
 .heartBreakCont {
     display: flex;
     flex-direction: column;
@@ -170,11 +169,9 @@ nav a {
     width: 300px;
     border: 2px solid #fff;
 }
-
 /* heartbreak shirt */
 
 /* black shirt */
-
 .blackShirtCont {
     display: flex;
     flex-direction: column;
@@ -194,11 +191,9 @@ nav a {
     width: 314px;
     border: 2px solid #fff;
 }
-
 /* black shirt */
 
 /* white shirt */
-
 .whiteShirtCont {
     display: flex;
     flex-direction: column;
@@ -218,11 +213,9 @@ nav a {
     width: 314px;
     border: 2px solid #fff;
 }
-
 /* white shirt */
 
 /* beige hoodie */
-
 .beigeHoodieCont {
     display: flex;
     flex-direction: column;
@@ -242,11 +235,9 @@ nav a {
     width: 314px;
     border: 2px solid #fff;
 }
-
 /* beige hoodie */
 
 /* its clothing hoodie */
-
 .itsClothingHoodieCont {
     display: flex;
     flex-direction: column;
@@ -266,11 +257,9 @@ nav a {
     width: 300px;
     border: 2px solid #fff;
 }
-
 /* its clothing hoodie */
 
 /* denim jacket */
-
 .denimJacketCont {
     display: flex;
     flex-direction: column;
@@ -290,11 +279,9 @@ nav a {
     width: 314px;
     border: 2px solid #fff;
 }
-
 /* denim jacket */
 
 /* navy knitted sweater */
-
 .navyKnittedSweaterCont {
     display: flex;
     flex-direction: column;
@@ -314,11 +301,9 @@ nav a {
     width: 356px;
     border: 2px solid #fff;
 }
-
 /* navy knitted sweater */
 
 /* black puffer jacket */
-
 .blackPufferJacketCont {
     display: flex;
     flex-direction: column;
@@ -338,14 +323,149 @@ nav a {
     width: 356px;
     border: 2px solid #fff;
 }
-
 /* black puffer jacket */
 
 /* men tops */
 
+/* men pants */
+
+.pantsBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.pantsBackground a:hover {
+    text-decoration: underline;
+}
+
+.pantsBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.pantsHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.pantsMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* 501 Levis */
+.levis501Cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.levis501Cont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.levis501Img img {
+    width: 78.5%;
+    border: 2px solid #fff;
+}
+/* 501 Levis */
+
+/* 510 Levis */
+.levis510Cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.levis510Cont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.levis510Img img {
+    width: 70%;
+    border: 2px solid #fff;
+}
+/* 510 Levis */
+
+/* men pants */
+
+/* men accessories */
+
+.accessoriesBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.accessoriesBackground a:hover {
+    text-decoration: underline;
+}
+
+.accessoriesBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.accessoriesHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.accessoriesMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
 
 
 
+/* men accessories */
 
 
 
