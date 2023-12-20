@@ -142,31 +142,157 @@ nav a {
 /* MAIN CONTAINER */
 
 /* black crop top */
+.blackCropTopCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.blackCropTopCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.blackCropTopImg img {
+    width: 600px;
+    border: 2px solid #fff;
+}
 /* black crop top */
 
 /* grey crop top */
+.greyCropTopCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.greyCropTopCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.greyCropTopImg img {
+    width: 272px;
+    border: 2px solid #fff;
+}
 /* grey crop top */
 
 /* break away today shirt */
+.breakAwayTodayCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.breakAwayTodayCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.breakAwayTodayImg img {
+    width: 571px;
+    border: 2px solid #fff;
+}
 /* break away today shirt */
 
 /* true colors shirt */
+.trueColorsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.trueColorsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.trueColorsImg img {
+    width: 261px;
+    border: 2px solid #fff;
+}
 /* true colors shirt */
 
 /* camp teresita pines shirt */
+.campTeresitaPinesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.campTeresitaPinesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.campTeresitaPinesImg img {
+    width: 572.5px;
+    border: 2px solid #fff;
+}
 /* camp teresita pines shirt */
 
 /* pink champion sweater */
+.pinkChampionSweaterCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.pinkChampionSweaterCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.pinkChampionSweaterImg img {
+    width: 259px;
+    border: 2px solid #fff;
+}
 /* pink champion sweater */
 
 /* denim jacket */
+.denimJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.denimJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.denimJacketImg img {
+    width: 231.5px;
+    border: 2px solid #fff;
+}
 /* denim jacket */
 
 /* women tops */
