@@ -27,7 +27,10 @@ extra time:
     √look for images for womens accessories section
     √work on womens accessories section
 
-
+12/21/2023
+!! CHANGE KIDS BODY BACKGROUND !!
+√create kids html file
+set up navbar, header, footer, and section layouts
 
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links

@@ -1,0 +1,270 @@
+/* body */
+
+body {
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1.2rem;
+    margin: -1px;
+    text-align: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-image: url(./refWomenPage/Arturo\ Rey\ Women\ HTML\ bodyBackground.jpg);
+    background-position: center;
+}
+
+/* body */
+
+/* header */
+
+header {
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+
+header h1 {
+    font-size: 12rem;
+    font-weight: 400;
+    color: #000;
+    background-color: #f9e4bc5c;
+    margin-top: 0;
+    padding-top: 2%;
+    border-bottom: 3px solid #fff;
+    text-decoration: line-through;
+    text-decoration-thickness: 2%;
+}
+
+/* header */
+
+/* navbar */
+
+nav {
+    font-size: 0.9rem;
+    letter-spacing: 0;
+}
+
+nav li {
+    list-style: none;
+}
+nav a {
+    text-decoration: none;
+}
+
+.navLinks {
+    display: flex;
+    gap: 1%;
+    background-color: #e3e3e3;
+    border-bottom: 3px solid #fff;
+    position: fixed;
+    width: 100%;
+    height: 2%;
+    top: 0;
+    margin: 0;
+    padding: 0.4% 1.5%;
+}
+
+.navTitle {
+    color: #000;
+    border: 1px solid #e3e3e3;
+    padding: 5%;
+}
+
+.navTitle:hover {
+    text-decoration: underline;
+}
+
+#personal {
+    display: flex;
+    position: absolute;
+    right: 3%;
+    margin: 0%;
+    width: 25%;
+    min-width: 10%;
+    max-height: 20px;
+    white-space: nowrap;
+}
+
+#personal a {
+    width: 100%;
+    margin: 0% 5%;
+    padding: 0% 2%;
+    color: #000;
+}
+
+#personal a:hover {
+    text-decoration: underline;
+}
+
+/* navbar */
+
+/* kids tops */
+
+.topsBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.topsBackground a:hover {
+    text-decoration: underline;
+}
+
+.topsBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.topsHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.topsMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* kids tops */
+
+/* kids pants */
+
+.pantsBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.pantsBackground a:hover {
+    text-decoration: underline;
+}
+
+.pantsBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.pantsHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.pantsMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* kids pants */
+
+/* kids accessories */
+
+.accessoriesBackground a {
+    width: 14%;
+    letter-spacing: 0.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+
+.accessoriesBackground a:hover {
+    text-decoration: underline;
+}
+
+.accessoriesBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.accessoriesHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.accessoriesMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* kids accessories */
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f9e4bc5c;
+    border-top: 2px solid #fff;
+    font-size: 0.9rem;
+    letter-spacing: 0.5rem;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.footerContLeft {
+    margin: 0% 0% 0% 1%;
+    padding: 0.5% 1%;
+}
+
+.footerContRight {
+    margin: 0% 1% 0% 0%;
+    padding: 0.5% 1%;
+}
+
+/* footer */
