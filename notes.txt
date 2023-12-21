@@ -32,6 +32,10 @@ extra time:
 √create kids html file
 set up navbar, header, footer, and section layouts
 
+women css:
+    √make images smaller until body background does not repeat
+        √start with pants section
+
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links
 
