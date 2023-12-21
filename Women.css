@@ -342,6 +342,50 @@ nav a {
 }
 /* MAIN CONTAINER */
 
+/* skinny jeans */
+.skinnyJeansCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.skinnyJeansCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.skinnyJeansImg img {
+    width: 56.5%;
+    border: 2px solid #fff;
+}
+/* skinny jeans */
+
+/* loose jeans */
+.looseJeansCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.looseJeansCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.looseJeansImg img {
+    width: 65%;
+    border: 2px solid #fff;
+}
+/* loose jeans */
+
 /* women pants */
 
 /* women accessories */
