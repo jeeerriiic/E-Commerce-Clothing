@@ -433,6 +433,160 @@ nav a {
 }
 /* MAIN CONTAINER */
 
+/* gold emerald necklace */
+.goldEmeraldNecklaceCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.goldEmeraldNecklaceCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.goldEmeraldNecklaceImg img {
+    width: 275px;
+    border: 2px solid #fff;
+}
+/* gold emerald necklace */
+
+/* silver ruby heart necklace */
+.silverRubyHeartNecklaceCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.silverRubyHeartNecklaceCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.silverRubyHeartNecklaceImg img {
+    width: 609px;
+    border: 2px solid #fff;
+}
+/* silver ruby heart necklace */
+
+/* blue sapphire topaz ring */
+.blueSapphireTopazRingCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.blueSapphireTopazRingCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.blueSapphireTopazRingImg img {
+    width: 609px;
+    border: 2px solid #fff;
+}
+/* blue sapphire topaz ring */
+
+/* peridot birthstone ring */
+.peridotBirthstoneRingCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.peridotBirthstoneRingCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.peridotBirthstoneRingImg img {
+    width: 609px;
+    border: 2px solid #fff;
+}
+/* peridot birthstone ring */
+
+/* rose gold ring */
+.roseGoldRingCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.roseGoldRingCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.roseGoldRingImg img {
+    width: 638px;
+    border: 2px solid #fff;
+}
+/* rose gold ring */
+
+/* pink bag */
+.pinkBagCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.pinkBagCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.pinkBagImg img {
+    width: 303px;
+    border: 2px solid #fff;
+}
+/* pink bag */
+
+/* red bag */
+.redBagCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.redBagCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.redBagImg img {
+    width: 338px;
+    border: 2px solid #fff;
+}
+/* red bag */
+
 /* women accessories */
 
 /* footer */
