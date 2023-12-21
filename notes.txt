@@ -23,17 +23,23 @@
 12/20/2023
 √finish womens tops section
 √look for images for womens pants section 2 images
+extra time:
+    look for images for womens accessories section
 
 
 
 !! NOT PRIORITY !!
-fix scroll margin top for men, women, and kids navbar links
+√fix scroll margin top for men, women, and kids navbar links
 
 create seperate html/css for each section
 all categories will have 4-6 items in total and have a bottom scrollbar
 set up scrollbar to scroll left and right within each container
 
-create log in and sign up html/css landing page
+√create log in and sign up html/css landing page
+change login and sign up into a "my account" with a dropdown menu with login and sign up
+
+add to navbar:
+    search bar, cart
 
 
 
