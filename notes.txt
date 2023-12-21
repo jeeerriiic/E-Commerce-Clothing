@@ -31,9 +31,9 @@ extra time:
 !! CHANGE KIDS BODY BACKGROUND !!
 √create kids html file
 √set up navbar, header, footer, and section layouts
-look for kids tops images and change body background
-
-women css:
+√look for kids tops images and change body background
+√finish kids tops section
+√women css:
     √make images smaller until body background does not repeat
         √start with pants section
 

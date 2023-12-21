@@ -8,7 +8,7 @@ body {
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
-    background-image: url(./refWomenPage/Arturo\ Rey\ Women\ HTML\ bodyBackground.jpg);
+    background-image: url(./refKidsPage/Baby\ Natur\ Kids\ HTML\ bodyBackground.jpg);
     background-position: center;
 }
 
@@ -140,6 +140,138 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
+
+/* boys red collared shirt */
+.redCollaredShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.redCollaredShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.redCollaredShirtImg img {
+    width: 500px;
+    border: 2px solid #fff;
+}
+/* boys red collared shirt */
+
+/* levis fashion shirt */
+.levisFashionShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.levisFashionShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.levisFashionShirtImg img {
+    width: 251px;
+    border: 2px solid #fff;
+}
+/* levis fashion shirt */
+
+/* boys knitted sweater */
+.boysKnittedSweaterCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.boysKnittedSweaterCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.boysKnittedSweaterImg img {
+    width: 502px;
+    border: 2px solid #fff;
+}
+/* boys knitted sweater */
+
+/* girls knitted sweater */
+.girlsKnittedSweaterCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.girlsKnittedSweaterCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.girlsKnittedSweaterImg img {
+    width: 224px;
+    border: 2px solid #fff;
+}
+/* girls knitted sweater */
+
+/* girls light green jacket */
+.girlsLightGreenJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.girlsLightGreenJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.girlsLightGreenJacketImg img {
+    width: 502px;
+    border: 2px solid #fff;
+}
+/* girls light green jacket */
+
+/* girls beige jacket */
+.girlsBeigeJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.girlsBeigeJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.girlsBeigeJacketImg img {
+    width: 216px;
+    border: 2px solid #fff;
+}
+/* girls beige jacket */
 
 /* kids tops */
 
