@@ -30,7 +30,8 @@ extra time:
 12/21/2023
 !! CHANGE KIDS BODY BACKGROUND !!
 √create kids html file
-set up navbar, header, footer, and section layouts
+√set up navbar, header, footer, and section layouts
+look for kids tops images and change body background
 
 women css:
     √make images smaller until body background does not repeat
@@ -39,12 +40,14 @@ women css:
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links
 
-create seperate html/css for each section
-all categories will have 4-6 items in total and have a bottom scrollbar
-set up scrollbar to scroll left and right within each container
+√create seperate html/css for each section
+√all categories will have 4-6 items in total and have a bottom  scrollbar
+√set up scrollbar to scroll left and right within each container
 
 √create log in and sign up html/css landing page
 change login and sign up into a "my account" with a dropdown menu with login and sign up
+
+!! align style.html images to be like men, women, and kids html images !!
 
 add to navbar:
     search bar, cart
