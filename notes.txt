@@ -36,6 +36,14 @@ extra time:
 √women css:
     √make images smaller until body background does not repeat
         √start with pants section
+extra time:
+    look for images for kids pants section
+
+12/22/2023
+√look for images for kids pants section
+finish kids pants section
+    extra time:
+        look for images for kids accessories section
 
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links
