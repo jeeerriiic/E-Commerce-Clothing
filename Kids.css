@@ -320,6 +320,72 @@ nav a {
 }
 /* MAIN CONTAINER */
 
+/* big kids pants */
+.bigKidsPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.bigKidsPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.bigKidsPantsImg img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+/* big kids pants */
+
+/* toddler pants */
+.toddlerPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.toddlerPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.toddlerPantsImg img {
+    width: 70.5%;
+    border: 2px solid #fff;
+}
+/* toddler pants */
+
+/* baby pants */
+.babyPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.babyPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.babyPantsImg img {
+    width: 66.5%;
+    border: 2px solid #fff;
+}
+/* baby pants */
+
 /* kids pants */
 
 /* kids accessories */
