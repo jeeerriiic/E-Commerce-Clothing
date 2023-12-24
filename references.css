@@ -1,0 +1,96 @@
+/* body */
+
+body {
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1.2rem;
+    margin: -1px;
+    text-align: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+/* body */
+
+/* header */
+
+header {
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+
+header h1 {
+    font-size: 12rem;
+    font-weight: 400;
+    color: #000;
+    background-color: #f9e4bc5c;
+    margin-top: 0;
+    padding-top: 2%;
+    border-bottom: 3px solid #fff;
+    text-decoration: line-through;
+    text-decoration-thickness: 2%;
+}
+
+/* header */
+
+/* navbar */
+
+nav {
+    font-size: 0.9rem;
+    letter-spacing: 0;
+}
+
+nav li {
+    list-style: none;
+}
+nav a {
+    text-decoration: none;
+}
+
+.navLinks {
+    display: flex;
+    gap: 1%;
+    background-color: #e3e3e3;
+    border-bottom: 3px solid #fff;
+    position: fixed;
+    width: 100%;
+    height: 2%;
+    top: 0;
+    margin: 0;
+    padding: 0.4% 1.5%;
+}
+
+.navTitle {
+    color: #000;
+    border: 1px solid #e3e3e3;
+    padding: 5%;
+}
+
+.navTitle:hover {
+    text-decoration: underline;
+}
+
+#personal {
+    display: flex;
+    position: absolute;
+    right: 3%;
+    margin: 0%;
+    width: 25%;
+    min-width: 10%;
+    max-height: 20px;
+    white-space: nowrap;
+}
+
+#personal a {
+    width: 100%;
+    margin: 0% 5%;
+    padding: 0% 2%;
+    color: #000;
+}
+
+#personal a:hover {
+    text-decoration: underline;
+}
+
+/* navbar */
