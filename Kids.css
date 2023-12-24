@@ -433,6 +433,138 @@ nav a {
 }
 /* MAIN CONTAINER */
 
+/* baby beanies */
+.babyBeaniesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.babyBeaniesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.babyBeaniesImg img {
+    width: 600px;
+    border: 2px solid #fff;
+}
+/* baby beanies */
+
+/* big kids trapper hat */
+.bigKidsTrapperHatCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.bigKidsTrapperHatCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.bigKidsTrapperHatImg img {
+    width: 571px;
+    border: 2px solid #fff;
+}
+/* big kids trapper hat */
+
+/* pink happy backpack */
+.pinkHappyBackpackCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.pinkHappyBackpackCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.pinkHappyBackpackImg img {
+    width: 599px;
+    border: 2px solid #fff;
+}
+/* pink happy backpack */
+
+/* mint backpack */
+.mintBackpackCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.mintBackpackCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.mintBackpackImg img {
+    width: 601px;
+    border: 2px solid #fff;
+}
+/* mint backpack */
+
+/* black and white knitted gloves */
+.blkWhtKnittedGlovesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.blkWhtKnittedGlovesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.blkWhtKnittedGlovesImg img {
+    width: 289.5px;
+    border: 2px solid #fff;
+}
+/* black and white knitted gloves */
+
+/* knitted bear gloves */
+.knittedBearGlovesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.knittedBearGlovesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.knittedBearGlovesImg img {
+    width: 258px;
+    border: 2px solid #fff;
+}
+/* knitted bear gloves */
+
 /* kids accessories */
 
 /* footer */
