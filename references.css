@@ -390,71 +390,377 @@ h4 {
 /* MAIN CONTAINER */
 
 /* body background */
+.menBodyBackgroundCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menBodyBackgroundCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menBodyBackgroundImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
 /* body background */
 
 /* heartbreak shirt */
+.menHeartbreakShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menHeartbreakShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menHeartbreakShirtImg img {
+    width: 256px;
+    border: 2px solid #fff;
+}
 /* heartbreak shirt */
 
 /* black shirt */
+.menBlackShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menBlackShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menBlackShirtImg img {
+    width: 270px;
+    border: 2px solid #fff;
+}
 /* black shirt */
 
 /* white shirt */
+.menWhiteShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menWhiteShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menWhiteShirtImg img {
+    width: 288px;
+    border: 2px solid #fff;
+}
 /* white shirt */
 
 /* beige hoodie */
+.menBeigeHoodieCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menBeigeHoodieCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menBeigeHoodieImg img {
+    width: 284px;
+    border: 2px solid #fff;
+}
 /* beige hoodie */
 
 /* its clothing hoodie */
+.menItsClothingHoodieCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menItsClothingHoodieCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menItsClothingHoodieImg img {
+    width: 272px;
+    border: 2px solid #fff;
+}
 /* its clothing hoodie */
 
 /* denim jacket */
+.menDenimJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menDenimJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menDenimJacketImg img {
+    width: 270px;
+    border: 2px solid #fff;
+}
 /* denim jacket */
 
 /* navy knitted sweater */
+.menNavyKnittedSweaterCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menNavyKnittedSweaterCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menNavyKnittedSweaterImg img {
+    width: 307px;
+    border: 2px solid #fff;
+}
 /* navy knitted sweater */
 
 /* black puffer jacket */
+.menBlackPufferJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menBlackPufferJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menBlackPufferJacketImg img {
+    width: 337px;
+    border: 2px solid #fff;
+}
 /* black puffer jacket */
 
 /* 501 Levis */
+.menLevis501Cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menLevis501Cont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menLevis501Img img {
+    width: 720px;
+    border: 2px solid #fff;
+}
 /* 501 Levis */
 
 /* 510 Levis */
+.menLevis510Cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menLevis510Cont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menLevis510Img img {
+    width: 528px;
+    border: 2px solid #fff;
+}
 /* 510 Levis */
 
 /* ice cream cap */
+.menIceCreamCapCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menIceCreamCapCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menIceCreamCapImg img {
+    width: 620px;
+    border: 2px solid #fff;
+}
 /* ice cream cap */
 
 /* beanies */
+.menBeaniesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menBeaniesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menBeaniesImg img {
+    width: 270px;
+    border: 2px solid #fff;
+}
 /* beanies */
 
 /* virgin mary necklace */
+.menVirginMaryNecklaceCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menVirginMaryNecklaceCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menVirginMaryNecklaceImg img {
+    width: 596px;
+    border: 2px solid #fff;
+}
 /* virgin mary necklace */
 
 /* gold necklace */
+.menGoldNecklaceCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menGoldNecklaceCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menGoldNecklaceImg img {
+    width: 302px;
+    border: 2px solid #fff;
+}
 /* gold necklace */
 
 /* seiko speedtimer SSC813 */
+.menSeikoSpeedtimerSSC813Cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menSeikoSpeedtimerSSC813Cont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menSeikoSpeedtimerSSC813Img img {
+    width: 596px;
+    border: 2px solid #fff;
+}
 /* seiko speedtimer SSC813 */
 
 /* seiko sarb033 */
+.menSeikoSarb033Cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.menSeikoSarb033Cont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.menSeikoSarb033Img img {
+    width: 507px;
+    border: 2px solid #fff;
+}
 /* seiko sarb033 */
 
 /* men page */
