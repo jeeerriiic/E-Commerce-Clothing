@@ -95,6 +95,14 @@ nav a {
 
 /* navbar */
 
+/* h4 */
+h4 {
+    color: #fff;
+    font-weight: lighter;
+    letter-spacing: 0.8rem;
+}
+/* h4 */
+
 /* style page */
 .styleBackground {
     display: flex;
@@ -126,6 +134,226 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
+
+/* body background */
+.styleBodyBackgroundCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleBodyBackgroundCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleBodyBackgroundImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* body background */
+
+/* men tops */
+.styleMenTopsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleMenTopsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleMenTopsImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* men tops */
+
+/* men pants */
+.styleMenPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleMenPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleMenPantsImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* men pants */
+
+/* men accessories */
+.styleMenAccessoriesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleMenAccessoriesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleMenAccessoriesImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* men accessories */
+
+/* women tops */
+.styleWomenTopsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleWomenTopsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleWomenTopsImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* women tops */
+
+/* women pants */
+.styleWomenPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleWomenPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleWomenPantsImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* women pants */
+
+/* women accessories */
+.styleWomenAccessoriesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleWomenAccessoriesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleWomenAccessoriesImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* women accessories */
+
+/* kids tops */
+.styleKidsTopsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleKidsTopsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleKidsTopsImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* kids tops */
+
+/* kids pants */
+.styleKidsPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleKidsPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleKidsPantsImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* kids pants */
+
+/* kids accessories */
+.styleKidsAccessoriesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.styleKidsAccessoriesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.styleKidsAccessoriesImg img {
+    width: 300px;
+    border: 2px solid #fff;
+}
+/* kids accessories */
 
 /* style page */
 
