@@ -56,6 +56,7 @@ extra time:
 √link each category to its section in the respective html
 √add buy container on mens html/css
 √add buy continer on womens html/css
+√add buy container on kids html/css
 
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links

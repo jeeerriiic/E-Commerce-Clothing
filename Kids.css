@@ -115,17 +115,6 @@ nav a {
 
 /* kids tops */
 
-.topsBackground a {
-    width: 14%;
-    letter-spacing: 0.5rem;
-    color: #fff;
-    text-decoration: none;
-}
-
-.topsBackground a:hover {
-    text-decoration: underline;
-}
-
 .topsBackground {
     display: flex;
     flex-wrap: wrap;
@@ -156,6 +145,37 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
+
+/* buy container */
+.buyTopsCont {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    min-height: 50px;
+}
+
+.buyTopsCont h4 {
+    font-size: 1rem;
+    letter-spacing: 0.8rem;
+    color: #fff;
+}
+
+.buyTopsCont a {
+    width: 30%;
+    padding: 2%;
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
+    color: #000;
+    background-color: #e3e3e3e8;
+    text-decoration: none;
+}
+
+.buyTopsCont a:hover {
+    text-decoration: underline;
+}
+/* buy container */
 
 /* boys red collared shirt */
 .redCollaredShirtCont {
@@ -293,17 +313,6 @@ nav a {
 
 /* kids pants */
 
-.pantsBackground a {
-    width: 14%;
-    letter-spacing: 0.5rem;
-    color: #fff;
-    text-decoration: none;
-}
-
-.pantsBackground a:hover {
-    text-decoration: underline;
-}
-
 .pantsBackground {
     display: flex;
     flex-wrap: wrap;
@@ -335,6 +344,37 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
+
+/* buy container */
+.buyPantsCont {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    min-height: 50px;
+}
+
+.buyPantsCont h4 {
+    font-size: 1rem;
+    letter-spacing: 0.8rem;
+    color: #fff;
+}
+
+.buyPantsCont a {
+    width: 20%;
+    padding: 1%;
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
+    color: #000;
+    background-color: #e3e3e3e8;
+    text-decoration: none;
+}
+
+.buyPantsCont a:hover {
+    text-decoration: underline;
+}
+/* buy container */
 
 /* big kids pants */
 .bigKidsPantsCont {
@@ -406,17 +446,6 @@ nav a {
 
 /* kids accessories */
 
-.accessoriesBackground a {
-    width: 14%;
-    letter-spacing: 0.5rem;
-    color: #fff;
-    text-decoration: none;
-}
-
-.accessoriesBackground a:hover {
-    text-decoration: underline;
-}
-
 .accessoriesBackground {
     display: flex;
     flex-wrap: wrap;
@@ -448,6 +477,37 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
+
+/* buy container */
+.buyAccessoriesCont {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    min-height: 50px;
+}
+
+.buyAccessoriesCont h4 {
+    font-size: 1rem;
+    letter-spacing: 0.8rem;
+    color: #fff;
+}
+
+.buyAccessoriesCont a {
+    width: 20%;
+    padding: 2%;
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
+    color: #000;
+    background-color: #e3e3e3e8;
+    text-decoration: none;
+}
+
+.buyAccessoriesCont a:hover {
+    text-decoration: underline;
+}
+/* buy container */
 
 /* baby beanies */
 .babyBeaniesCont {
