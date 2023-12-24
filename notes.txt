@@ -51,6 +51,12 @@ extra time:
         change style.html tops, pants, and accessories into links (h3)
         link each category to its section in the respective html
 
+12/24/2023
+√change style.html tops, pants, and accessories into links (h3)
+√link each category to its section in the respective html
+√add buy container on mens html/css
+√add buy continer on womens html/css
+
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links
 
