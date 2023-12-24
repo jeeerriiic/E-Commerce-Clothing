@@ -108,6 +108,24 @@ nav a {
     background-color: #00000055;
 }
 
+.MEN a {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    font-size: 3rem;
+    font-weight: bolder;
+    letter-spacing: 0;
+    text-decoration: none;
+    border: 2px solid #fff;
+}
+
+.MEN a:hover {
+    text-decoration: underline;
+    background-color: #e3e3e3;
+}
+
 .menHeader {
     font-size: 5rem;
     width: 100%;
@@ -122,15 +140,6 @@ nav a {
     flex-direction: column;
     justify-content: center;
     width: 40%;
-}
-
-.menTopsCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
 }
 
 .menTopsImg img {
@@ -148,15 +157,6 @@ nav a {
     margin: 0% 3.9%;
 }
 
-.menPantsCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
-}
-
 .menPantsImg img {
     width: 100%;
     border: 2px solid #fff;
@@ -169,16 +169,6 @@ nav a {
     flex-direction: column;
     justify-content: center;
     width: 22%;
-}
-
-.menAccessoriesCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    margin-bottom: 0%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
 }
 
 .menAccessoriesImg img {
@@ -200,6 +190,24 @@ nav a {
     background-color: #00000055;
 }
 
+.WOMEN a {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    font-size: 3rem;
+    font-weight: bolder;
+    letter-spacing: 0;
+    text-decoration: none;
+    border: 2px solid #fff;
+}
+
+.WOMEN a:hover {
+    text-decoration: underline;
+    background-color: #e3e3e3;
+}
+
 .womenHeader {
     font-size: 5rem;
     width: 100%;
@@ -215,15 +223,6 @@ nav a {
     flex-direction: column;
     justify-content: center;
     width: 30%;
-}
-
-.womenTopsCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-bottom: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
 }
 
 .womenTopsImg img {
@@ -243,15 +242,6 @@ nav a {
     margin: 0% 2.4%;
 }
 
-.womenPantsCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-bottom: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
-}
-
 .womenPantsImg img {
     width: 100%;
     border: 2px solid #fff;
@@ -266,15 +256,6 @@ nav a {
     flex-direction: column;
     justify-content: flex-end;
     width: 20%;
-}
-
-.womenAccessoriesCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-bottom: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
 }
 
 .womenAccessoriesImg img {
@@ -297,6 +278,24 @@ nav a {
     background-color: #00000055;
 }
 
+.KIDS a {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    font-size: 3rem;
+    font-weight: bolder;
+    letter-spacing: 0;
+    text-decoration: none;
+    border: 2px solid #fff;
+}
+
+.KIDS a:hover {
+    text-decoration: underline;
+    background-color: #e3e3e3;
+}
+
 .kidsHeader {
     font-size: 5rem;
     width: 100%;
@@ -308,16 +307,10 @@ nav a {
 /* kids tops */
 
 .kidsTopsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: 40%;
-}
-
-.kidsTopsCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-bottom: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
 }
 
 .kidsTopsImg img {
@@ -337,15 +330,6 @@ nav a {
     margin: 0% 2.4%;
 }
 
-.kidsPantsCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-bottom: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
-}
-
 .kidsPantsImg img {
     width: 100%;
     border: 2px solid #fff;
@@ -356,16 +340,10 @@ nav a {
 /* kids accessories */
 
 .kidsAccessoriesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: 20%;
-}
-
-.kidsAccessoriesCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-bottom: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
 }
 
 .kidsAccessoriesImg img {

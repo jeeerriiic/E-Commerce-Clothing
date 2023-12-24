@@ -47,6 +47,9 @@ extra time:
 
 12/23/2023
 √finish kids accessories section
+    extra time:
+        change style.html tops, pants, and accessories into links (h3)
+        link each category to its section in the respective html
 
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links
@@ -56,9 +59,10 @@ extra time:
 √set up scrollbar to scroll left and right within each container
 
 √create log in and sign up html/css landing page
-change login and sign up into a "my account" with a dropdown menu with login and sign up
+change login and sign up into a "my account" with a dropdown menu with login and sign up -- keep as is --
 
-!! align style.html images to be like men, women, and kids html images !!
+!! align style.html images to be like men, women, and kids html images !! <-- DO NOT DO 
+-- keep style.html/css as is --
 
 add to navbar:
     search bar, cart

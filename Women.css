@@ -36,6 +36,22 @@ header h1 {
 
 /* header */
 
+/* section header ids */
+
+#TOPS {
+    scroll-margin-top: 75px;
+}
+
+#PANTS {
+    scroll-margin-top: 75px;
+}
+
+#ACCESSORIES {
+    scroll-margin-top: 75px;
+}
+
+/* section header ids */
+
 /* navbar */
 
 nav {
