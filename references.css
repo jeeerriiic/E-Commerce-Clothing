@@ -230,3 +230,35 @@ nav a {
 /* MAIN CONTAINER */
 
 /* kids page */
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f9e4bc5c;
+    border-top: 2px solid #fff;
+    font-size: 0.9rem;
+    letter-spacing: 0.5rem;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.footerContLeft {
+    margin: 0% 0% 0% 1%;
+    padding: 0.5% 1%;
+}
+
+.footerContRight {
+    margin: 0% 1% 0% 0%;
+    padding: 0.5% 1%;
+}
+
+/* footer */
