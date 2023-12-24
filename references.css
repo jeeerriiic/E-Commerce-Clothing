@@ -94,3 +94,139 @@ nav a {
 }
 
 /* navbar */
+
+/* style page */
+.styleBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.styleHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.styleMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* style page */
+
+/* men page */
+.menBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.menHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.menMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* men page */
+
+/* women page */
+.womenBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.womenHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.womenMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* women page */
+
+/* kids page */
+.kidsBackground {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 4%;
+    padding-bottom: 1%;
+    background-color: #00000055;
+}
+
+.kidsHeader {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 5%;
+    background-color: #f9e4bc5c;
+    border: 2px solid #fff;
+}
+
+/* MAIN CONTAINER */
+.kidsMainCont {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 90%;
+    gap: 2%;
+    margin: 0% 5% 1% 5%;
+    padding: 2%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    background-color: #00000086;
+}
+/* MAIN CONTAINER */
+
+/* kids page */
