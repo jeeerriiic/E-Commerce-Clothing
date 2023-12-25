@@ -797,6 +797,380 @@ h4 {
 }
 /* MAIN CONTAINER */
 
+/* body background */
+.womenBodyBackgroundCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenBodyBackgroundCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenBodyBackgroundImg img {
+    width: 600px;
+    border: 2px solid #fff;
+}
+/* body background */
+
+/* black crop top */
+.womenBlackCropTopCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenBlackCropTopCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenBlackCropTopImg img {
+    width: 517px;
+    border: 2px solid #fff;
+}
+/* black crop top */
+
+/* grey crop top */
+.womenGreyCropTopCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenGreyCropTopCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenGreyCropTopImg img {
+    width: 221px;
+    border: 2px solid #fff;
+}
+/* grey crop top */
+
+/* break away today shirt */
+.womenBreakAwayTodayShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenBreakAwayTodayShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenBreakAwayTodayShirtImg img {
+    width: 517px;
+    border: 2px solid #fff;
+}
+/* break away today shirt */
+
+/* true colors shirt */
+.womenTrueColorsShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenTrueColorsShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenTrueColorsShirtImg img {
+    width: 237px;
+    border: 2px solid #fff;
+}
+/* true colors shirt */
+
+/* camp teresita pines shirt */
+.womenCampTeresitaPinesShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenCampTeresitaPinesShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenCampTeresitaPinesShirtImg img {
+    width: 517px;
+    border: 2px solid #fff;
+}
+/* camp teresita pines shirt */
+
+/* pink champion sweater */
+.womenPinkChampionSweaterCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenPinkChampionSweaterCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenPinkChampionSweaterImg img {
+    width: 215px;
+    border: 2px solid #fff;
+}
+/* pink champion sweater */
+
+/* denim jacket */
+.womenDenimJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenDenimJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenDenimJacketImg img {
+    width: 199px;
+    border: 2px solid #fff;
+}
+/* denim jacket */
+
+/* skinny jeans */
+.womenSkinnyJeansCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenSkinnyJeansCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenSkinnyJeansImg img {
+    width: 220px;
+    border: 2px solid #fff;
+}
+/* skinny jeans */
+
+/* loose jeans */
+.womenLooseJeansCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenLooseJeansCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenLooseJeansImg img {
+    width: 245px;
+    border: 2px solid #fff;
+}
+/* loose jeans */
+
+/* gold emerald necklace */
+.womenGoldEmeraldNecklaceCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenGoldEmeraldNecklaceCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenGoldEmeraldNecklaceImg img {
+    width: 205px;
+    border: 2px solid #fff;
+}
+/* gold emerald necklace */
+
+/* silver ruby heart necklace */
+.womenSilverRubyHeartNecklaceCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenSilverRubyHeartNecklaceCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenSilverRubyHeartNecklaceImg img {
+    width: 490px;
+    border: 2px solid #fff;
+}
+/* silver ruby heart necklace */
+
+/* blue sapphire topaz ring */
+.womenBlueSapphireTopazRingCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenBlueSapphireTopazRingCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenBlueSapphireTopazRingImg img {
+    width: 490px;
+    border: 2px solid #fff;
+}
+/* blue sapphire topaz ring */
+
+/* peridot birthstone ring */
+.womenPeridotBirthstoneRingCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenPeridotBirthstoneRingCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenPeridotBirthstoneRingImg img {
+    width: 490px;
+    border: 2px solid #fff;
+}
+/* peridot birthstone ring */
+
+/* rose gold ring */
+.womenRoseGoldRingCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenRoseGoldRingCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenRoseGoldRingImg img {
+    width: 513px;
+    border: 2px solid #fff;
+}
+/* rose gold ring */
+
+/* pink bag */
+.womenPinkBagCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenPinkBagCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenPinkBagImg img {
+    width: 219px;
+    border: 2px solid #fff;
+}
+/* pink bag */
+
+/* red bag */
+.womenRedBagCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.womenRedBagCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.womenRedBagImg img {
+    width: 244px;
+    border: 2px solid #fff;
+}
+/* red bag */
+
 /* women page */
 
 /* kids page */
