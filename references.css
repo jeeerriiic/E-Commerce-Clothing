@@ -1206,67 +1206,355 @@ h4 {
 /* MAIN CONTAINER */
 
 /* body background */
+.kidsBodyBackgroundCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsBodyBackgroundCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsBodyBackgroundImg img {
+    width: 500px;
+    border: 2px solid #fff;
+}
 /* body background */
 
 /* boys red collared shirt */
+.kidsBoysRedCollaredShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsBoysRedCollaredShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsBoysRedCollaredShirtImg img {
+    width: 500px;
+    border: 2px solid #fff;
+}
 /* boys red collared shirt */
 
 /* levis fashion shirt */
+.kidsLevisFashionShirtCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsLevisFashionShirtCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsLevisFashionShirtImg img {
+    width: 238px;
+    border: 2px solid #fff;
+}
 /* levis fashion shirt */
 
 /* boys knitted sweater */
+.kidsBoysKnittedSweaterCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsBoysKnittedSweaterCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsBoysKnittedSweaterImg img {
+    width: 472px;
+    border: 2px solid #fff;
+}
 /* boys knitted sweater */
 
 /* girls knitted sweater */
+.kidsGirlsKnittedSweaterCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsGirlsKnittedSweaterCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsGirlsKnittedSweaterImg img {
+    width: 200px;
+    border: 2px solid #fff;
+}
 /* girls knitted sweater */
 
 /* girls light green jacket */
+.kidsGirlsLightGreenJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsGirlsLightGreenJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsGirlsLightGreenJacketImg img {
+    width: 502px;
+    border: 2px solid #fff;
+}
 /* girls light green jacket */
 
 /* girls beige jacket */
+.kidsGirlsBeigeJacketCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsGirlsBeigeJacketCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsGirlsBeigeJacketImg img {
+    width: 193px;
+    border: 2px solid #fff;
+}
 /* girls beige jacket */
 
 /* big kids pants */
+.kidsBigKidsPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsBigKidsPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsBigKidsPantsImg img {
+    width: 499px;
+    border: 2px solid #fff;
+}
 /* big kids pants */
 
 /* toddler pants */
+.kidsToddlerPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsToddlerPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsToddlerPantsImg img {
+    width: 201px;
+    border: 2px solid #fff;
+}
 /* toddler pants */
 
 /* baby pants */
+.kidsBabyPantsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsBabyPantsCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsBabyPantsImg img {
+    width: 218px;
+    border: 2px solid #fff;
+}
 /* baby pants */
 
 /* baby beanies */
+.kidsBabyBeaniesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsBabyBeaniesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsBabyBeaniesImg img {
+    width: 499px;
+    border: 2px solid #fff;
+}
 /* baby beanies */
 
 /* big kids trapper hat */
+.kidsBigKidsTrapperHatCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsBigKidsTrapperHatCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsBigKidsTrapperHatImg img {
+    width: 475px;
+    border: 2px solid #fff;
+}
 /* big kids trapper hat */
 
 /* pink happy backpack */
+.kidsPinkHappyBackpackCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsPinkHappyBackpackCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsPinkHappyBackpackImg img {
+    width: 475px;
+    border: 2px solid #fff;
+}
 /* pink happy backpack */
 
 /* mint backpack */
+.kidsMintBackpackCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsMintBackpackCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsMintBackpackImg img {
+    width: 500px;
+    border: 2px solid #fff;
+}
 /* mint backpack */
 
 /* black and white knitted gloves */
+.kidsBlkWhtKnittedGlovesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsBlkWhtKnittedGlovesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsBlkWhtKnittedGlovesImg img {
+    width: 212px;
+    border: 2px solid #fff;
+}
 /* black and white knitted gloves */
 
 /* knitted bear gloves */
+.kidsKnittedBearGlovesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 
+.kidsKnittedBearGlovesCont h3 {
+    color: #000;
+    background-color: #f9e4bc5c;
+    width: 100%;
+    margin-top: 5%;
+    padding: 2% 0%;
+    border: 2px solid #fff
+}
+
+.kidsKnittedBearGlovesImg img {
+    width: 199px;
+    border: 2px solid #fff;
+}
 /* knitted bear gloves */
 
 /* kids page */
