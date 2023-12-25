@@ -59,6 +59,12 @@ extra time:
 √add buy container on kids html/css
     extra time:
         work on references html/css
+            √finished style page
+            √finished men page
+            √finished women page
+
+12/25/2023
+finish references page
 
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links
