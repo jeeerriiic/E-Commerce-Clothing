@@ -162,8 +162,8 @@ nav a {
 }
 
 .buyTopsCont a {
-    width: 30%;
-    padding: 2%;
+    width: 100px;
+    padding: 1% 0%;
     font-size: 1rem;
     font-weight: bold;
     letter-spacing: 0.5rem;
@@ -383,8 +383,8 @@ nav a {
 }
 
 .buyPantsCont a {
-    width: 20%;
-    padding: 1%;
+    width: 100px;
+    padding: 1% 0%;
     font-size: 1rem;
     font-weight: bold;
     letter-spacing: 0.5rem;
@@ -494,8 +494,8 @@ nav a {
 }
 
 .buyAccessoriesCont a {
-    width: 20%;
-    padding: 2%;
+    width: 100px;
+    padding: 1% 0%;
     font-size: 1rem;
     font-weight: bold;
     letter-spacing: 0.5rem;

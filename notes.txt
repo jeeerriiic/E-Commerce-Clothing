@@ -65,6 +65,7 @@ extra time:
 
 12/25/2023
 √finish references page
+√fix men page pants buy button when you shrink browser
 
 !! NOT PRIORITY !!
 √fix scroll margin top for men, women, and kids navbar links
