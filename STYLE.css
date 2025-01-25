@@ -223,6 +223,14 @@ nav a {
     border: 2px solid #fff;
 }
 
+/* women content container */
+.womenContentContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* women content container */
+
 /* women tops */
 
 .womenTopsCont {
