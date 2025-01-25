@@ -14,3 +14,8 @@ Figure out what needs to be fixed
                 max-width 768px
             S
                 max-width 640px
+
+1/25/25
+STYLES.html
+    finished updating mens section
+    working on womens and kids sections next
