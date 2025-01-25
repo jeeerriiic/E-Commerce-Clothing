@@ -4,8 +4,6 @@ Figure out what needs to be fixed
     go through all html files and update all img tags by adding a alt value
     work on all css files to be responsive
         media queries (desktop first)
-            3XL
-                max-width 2560px
             2XL
                 max-width 1536px
             XL
