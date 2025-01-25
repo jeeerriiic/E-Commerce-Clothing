@@ -134,6 +134,14 @@ nav a {
     border: 2px solid #fff;
 }
 
+/* men content container */
+.menContentContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* men content container */
+
 /* men tops */
 .menTopsCont {
     display: flex;
