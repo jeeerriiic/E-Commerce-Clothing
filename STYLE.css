@@ -1,5 +1,4 @@
 /* body */
-
 body {
     font-size: 1rem;
     font-family: 'Times New Roman', Times, serif;
@@ -11,11 +10,9 @@ body {
     background-image: url(./refHomePage/Amanda\ Vick\ bodyBackGround.jpg);
     background-position: center;
 }
-
 /* body */
 
 /* header */
-
 header {
     display: block;
     width: 100%;
@@ -33,11 +30,9 @@ header h1 {
     text-decoration: line-through;
     text-decoration-thickness: 2%;
 }
-
 /* header */
 
 /* navbar */
-
 nav {
     font-size: 0.9rem;
     letter-spacing: 0;
@@ -94,11 +89,9 @@ nav a {
 #personal a:hover {
     text-decoration: underline;
 }
-
 /* navbar */
 
 /* men section */
-
 .MEN {
     display: flex;
     flex-wrap: wrap;
@@ -133,7 +126,6 @@ nav a {
     background-color: #f9e4bc5c;
     border: 2px solid #fff;
 }
-
 /* men content container */
 .menContentContainer {
     display: flex;
@@ -183,11 +175,9 @@ nav a {
     border: 2px solid #fff;
 }
 /* men accessories */
-
 /* men section */
 
 /* women section */
-
 .WOMEN {
     display: flex;
     flex-wrap: wrap;
@@ -232,7 +222,6 @@ nav a {
 /* women content container */
 
 /* women tops */
-
 .womenTopsCont {
     display: flex;
     flex-direction: column;
@@ -244,11 +233,9 @@ nav a {
     width: 100%;
     border: 2px solid #fff;
 }
-
 /* women tops */
 
 /* women pants */
-
 .womenPantsCont {
     display: flex;
     flex-direction: column;
@@ -261,11 +248,9 @@ nav a {
     width: 100%;
     border: 2px solid #fff;
 }
-
 /* women pants */
 
 /* women accessories */
-
 .womenAccessoriesCont {
     display: flex;
     flex-direction: column;
@@ -277,13 +262,10 @@ nav a {
     width: 100%;
     border: 2px solid #fff;
 }
-
 /* women accessories */
-
 /* women section */
 
 /* kids section */
-
 .KIDS {
     display: flex;
     flex-wrap: wrap;
@@ -318,7 +300,6 @@ nav a {
     background-color: #f9e4bc5c;
     border: 2px solid #fff;
 }
-
 /* kids content container */
 .kidsContentContainer {
     display: flex;
@@ -328,7 +309,6 @@ nav a {
 /* kids content container */
 
 /* kids tops */
-
 .kidsTopsCont {
     display: flex;
     flex-direction: column;
@@ -340,11 +320,9 @@ nav a {
     width: 100%;
     border: 2px solid #fff;
 }
-
 /* kids tops */
 
 /* kids pants */
-
 .kidsPantsCont {
     display: flex;
     flex-direction: column;
@@ -357,11 +335,9 @@ nav a {
     width: 100%;
     border: 2px solid #fff;
 }
-
 /* kids pants */
 
 /* kids accessories */
-
 .kidsAccessoriesCont {
     display: flex;
     flex-direction: column;
@@ -373,13 +349,10 @@ nav a {
     width: 100%;
     border: 2px solid #fff;
 }
-
 /* kids accessories */
-
 /* kids section */
 
 /* footer */
-
 footer {
     display: flex;
     justify-content: space-between;
@@ -407,5 +380,4 @@ footer a:hover {
     margin: 0 10px 0 0;
     padding: 5px 10px;
 }
-
 /* footer */
