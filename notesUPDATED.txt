@@ -16,6 +16,8 @@ Figure out what needs to be fixed
                 max-width 640px
 
 1/25/25
-STYLES.html
+STYLE.html
     finished updating mens section
-    working on womens and kids sections next
+    √working on womens and kids sections next
+STYLE.css
+    updated margins and padding in men/women/kids/footer sections from % to px
