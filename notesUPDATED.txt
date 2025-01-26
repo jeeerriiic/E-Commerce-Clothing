@@ -19,5 +19,8 @@ Figure out what needs to be fixed
 STYLE.html
     finished updating mens section
     √working on womens and kids sections next
+    added a container class for each section for media queries
 STYLE.css
     updated margins and padding in men/women/kids/footer sections from % to px
+    updated all border sizing from 2&3px to 1px
+    added a media container utility class
