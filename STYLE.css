@@ -409,6 +409,7 @@ footer a:hover {
 @media (max-width: 1280px) {
     .container {
         max-width: 1024px;
+        border: 2px solid red;
     }
 }
 /* XL */
@@ -417,6 +418,7 @@ footer a:hover {
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
+        border: 2px solid yellow;
     }
 }
 /* L */
@@ -425,6 +427,7 @@ footer a:hover {
 @media (max-width: 768px) {
     .container {
         max-width: 640px;
+        border: 2px solid green;
     }
 }
 /* M */
@@ -433,6 +436,7 @@ footer a:hover {
 @media (max-width: 640px) {
     .container {
         max-width: 1280px;
+        border: 2px solid blue;
     }
 }
 /* S */

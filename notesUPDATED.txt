@@ -26,3 +26,8 @@ STYLE.css
     updated margins and padding in men/women/kids/footer sections from % to px
     updated all border sizing from 2&3px to 1px
     added a media container utility class
+
+1/28/25
+STYLE.css
+    working on media queries from XL-S
+        adjust all text specific to each media query
