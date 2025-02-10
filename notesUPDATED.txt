@@ -40,3 +40,8 @@ STYLE.css
         √M
         √S
             adjusted font sizes and header container height
+
+** [work on Men.html/css
+    Women.html/css
+    Kids.html/css
+    references.html/css] **
