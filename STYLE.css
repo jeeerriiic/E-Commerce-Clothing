@@ -455,7 +455,47 @@ footer a:hover {
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
-        border: 2px solid yellow;
+        /* border: 2px solid yellow; */
+    }
+
+    header {
+        height: 275px;
+    }
+
+    header h1 {
+        font-size: 9rem;
+    }
+
+    #personal {
+        right: 100px;
+    }
+
+    .MEN a {
+        font-size: 1.4rem;
+    }
+
+    .menHeader {
+        font-size: 4rem;
+    }
+
+    .WOMEN a {
+        font-size: 1.3rem;
+    }
+
+    .womenHeader {
+        font-size: 4rem;
+    }
+
+    .KIDS a {
+        font-size: 1.3rem;
+    }
+
+    .kidsHeader {
+        font-size: 4rem;
+    }
+
+    footer {
+        font-size: 0.8rem;
     }
 }
 /* L */
