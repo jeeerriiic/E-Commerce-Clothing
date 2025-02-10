@@ -37,4 +37,5 @@ STYLE.css
     @media
         √XL
         √L
+        √M
             adjusted font sizes and header container height
