@@ -466,6 +466,10 @@ footer a:hover {
         font-size: 9rem;
     }
 
+    .navTitle {
+        padding: 2%;
+    }
+
     #personal {
         right: 100px;
     }
