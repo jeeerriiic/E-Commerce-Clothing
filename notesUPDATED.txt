@@ -45,3 +45,7 @@ STYLE.css
     Women.html/css
     Kids.html/css
     references.html/css] **
+
+2/10/25
+Men.html
+    added alts to all img tags
