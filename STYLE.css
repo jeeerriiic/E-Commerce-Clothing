@@ -504,7 +504,43 @@ footer a:hover {
 @media (max-width: 768px) {
     .container {
         max-width: 640px;
-        border: 2px solid green;
+        /* border: 2px solid green; */
+    }
+
+    header {
+        height: 250px;
+    }
+
+    header h1 {
+        font-size: 8rem;
+    }
+
+    #personal {
+        right: 110px;
+    }
+
+    .MEN a {
+        font-size: 1.2rem;
+    }
+
+    .menHeader {
+        font-size: 3.5rem;
+    }
+
+    .WOMEN a {
+        font-size: 1.1rem;
+    }
+
+    .womenHeader {
+        font-size: 3.5;
+    }
+
+    .KIDS a {
+        font-size: 1.1rem;
+    }
+
+    .kidsHeader {
+        font-size: 3.5;
     }
 }
 /* M */
