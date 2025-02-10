@@ -31,3 +31,9 @@ STYLE.css
 STYLE.css
     working on media queries from XL-S
         adjust all text specific to each media query
+
+2/9/25
+STYLE.css
+    @media
+        √XL
+            adjusted font sizes and header container height
