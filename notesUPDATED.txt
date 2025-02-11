@@ -47,6 +47,8 @@ STYLE.css
     references.html/css] **
 
 2/10/25
+Men.html/css
+    removed it's clothing hoodie, navy knitted sweater, and black puffer sections
 Men.html
     added alts to all img tags
 Men.css
