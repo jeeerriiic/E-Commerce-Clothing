@@ -49,3 +49,5 @@ STYLE.css
 2/10/25
 Men.html
     added alts to all img tags
+Men.css
+    img 328x500(px)
