@@ -54,3 +54,4 @@ Men.html
 Men.css
     edited navbar, buy button(all), and tops container dimensions
     img 328x500(px)
+    tops section finished
