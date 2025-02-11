@@ -50,4 +50,5 @@ STYLE.css
 Men.html
     added alts to all img tags
 Men.css
+    edited navbar, buy button(all), and tops container dimensions
     img 328x500(px)
