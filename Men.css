@@ -3,7 +3,7 @@
 body {
     font-size: 1rem;
     font-family: 'Times New Roman', Times, serif;
-    letter-spacing: 1.2rem;
+    letter-spacing: 1rem;
     margin: -1px;
     text-align: center;
     overflow-y: auto;
@@ -111,7 +111,6 @@ nav a {
 /* navbar */
 
 /* men tops */
-
 .topsBackground {
     display: flex;
     flex-wrap: wrap;
@@ -177,14 +176,13 @@ nav a {
 .heartBreakCont h3 {
     color: #000;
     background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
+    padding: 5px;
     border: 2px solid #fff
 }
 
 .heartBreakImg img {
-    width: 300px;
+    width: 340px;
+    height: 500px;
     border: 2px solid #fff;
 }
 /* heartbreak shirt */
@@ -199,14 +197,13 @@ nav a {
 .blackShirtCont h3 {
     color: #000;
     background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
+    padding: 5px;
     border: 2px solid #fff
 }
 
 .blackShirtImg img {
-    width: 314px;
+    width: 328px;
+    height: 500px;
     border: 2px solid #fff;
 }
 /* black shirt */
@@ -221,14 +218,13 @@ nav a {
 .whiteShirtCont h3 {
     color: #000;
     background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
+    padding: 5px;
     border: 2px solid #fff
 }
 
 .whiteShirtImg img {
-    width: 314px;
+    width: 328px;
+    height: 500px;
     border: 2px solid #fff;
 }
 /* white shirt */
@@ -243,39 +239,16 @@ nav a {
 .beigeHoodieCont h3 {
     color: #000;
     background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
+    padding: 5px;
     border: 2px solid #fff
 }
 
 .beigeHoodieImg img {
-    width: 314px;
+    width: 328px;
+    height: 500px;
     border: 2px solid #fff;
 }
 /* beige hoodie */
-
-/* its clothing hoodie */
-.itsClothingHoodieCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.itsClothingHoodieCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
-}
-
-.itsClothingHoodieImg img {
-    width: 300px;
-    border: 2px solid #fff;
-}
-/* its clothing hoodie */
 
 /* denim jacket */
 .denimJacketCont {
@@ -287,62 +260,16 @@ nav a {
 .denimJacketCont h3 {
     color: #000;
     background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
+    padding: 5px;
     border: 2px solid #fff;
 }
 
 .denimJacketImg img {
-    width: 314px;
+    width: 328px;
+    height: 500px;
     border: 2px solid #fff;
 }
 /* denim jacket */
-
-/* navy knitted sweater */
-.navyKnittedSweaterCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.navyKnittedSweaterCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
-}
-
-.navyKnittedSweaterImg img {
-    width: 356px;
-    border: 2px solid #fff;
-}
-/* navy knitted sweater */
-
-/* black puffer jacket */
-.blackPufferJacketCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.blackPufferJacketCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff;
-}
-
-.blackPufferJacketImg img {
-    width: 356px;
-    border: 2px solid #fff;
-}
-/* black puffer jacket */
-
 /* men tops */
 
 /* men pants */
