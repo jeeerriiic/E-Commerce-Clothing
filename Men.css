@@ -1,5 +1,4 @@
 /* body */
-
 body {
     font-size: 1rem;
     font-family: 'Times New Roman', Times, serif;
@@ -11,11 +10,9 @@ body {
     background-image: url(./refMenPage/Jeff\ Sheldon\ Men\ HTML\ bodyBackground.jpg);
     background-position: center;
 }
-
 /* body */
 
 /* header */
-
 header {
     display: block;
     width: 100%;
@@ -33,11 +30,9 @@ header h1 {
     text-decoration: line-through;
     text-decoration-thickness: 2%;
 }
-
 /* header */
 
 /* section header ids */
-
 #TOPS {
     scroll-margin-top: 75px;
 }
@@ -49,11 +44,9 @@ header h1 {
 #ACCESSORIES {
     scroll-margin-top: 75px;
 }
-
 /* section header ids */
 
 /* navbar */
-
 nav {
     font-size: 0.9rem;
     letter-spacing: 0;
@@ -107,7 +100,6 @@ nav a {
 #personal a:hover {
     text-decoration: underline;
 }
-
 /* navbar */
 
 /* men tops */
@@ -130,9 +122,9 @@ nav a {
 .topsMainCont {
     display: flex;
     flex-wrap: nowrap;
-    width: 90%;
+    width: 100%;
     gap: 2%;
-    margin: 0 0 40px 40px;
+    margin: 0 40px 40px 40px;
     padding: 2%;
     overflow-y: hidden;
     overflow-x: auto;
@@ -273,7 +265,6 @@ nav a {
 /* men tops */
 
 /* men pants */
-
 .pantsBackground {
     display: flex;
     flex-wrap: wrap;
@@ -375,11 +366,9 @@ nav a {
     border: 2px solid #fff;
 }
 /* 510 Levis */
-
 /* men pants */
 
 /* men accessories */
-
 .accessoriesBackground a {
     width: 14%;
     letter-spacing: 0.5rem;
@@ -580,11 +569,9 @@ nav a {
     border: 2px solid #fff;
 }
 /* seiko sarb033 */
-
 /* men accessories */
 
 /* footer */
-
 footer {
     display: flex;
     justify-content: space-between;
@@ -612,5 +599,4 @@ footer a:hover {
     margin: 0% 1% 0% 0%;
     padding: 0.5% 1%;
 }
-
 /* footer */
