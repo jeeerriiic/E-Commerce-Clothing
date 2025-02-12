@@ -67,3 +67,4 @@ Men.html/css
 Men.css
     adjusted pants & accessories container, header, and content container dimensions
     setup @media and @media container utility
+    ** work on @media XL-S queries **
