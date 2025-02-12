@@ -158,110 +158,34 @@ nav a {
 }
 /* MAIN CONTAINER */
 
-/* heartbreak shirt */
-.heartBreakCont {
+/* tops images */
+.topsContentContainer {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
 }
 
-.heartBreakCont h3 {
+.topsContentContainer h3 {
     color: #000;
     background-color: #f9e4bc5c;
     padding: 5px;
     border: 2px solid #fff
 }
 
-.heartBreakImg img {
+.topsContentContainerImgs img {
+    width: 328px;
+    height: 500px;
+    border: 2px solid #fff;
+}
+/* tops images */
+
+/* tops images custom  */
+.heartBreakImgCustom img {
     width: 340px;
     height: 500px;
     border: 2px solid #fff;
 }
-/* heartbreak shirt */
-
-/* black shirt */
-.blackShirtCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.blackShirtCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    padding: 5px;
-    border: 2px solid #fff
-}
-
-.blackShirtImg img {
-    width: 328px;
-    height: 500px;
-    border: 2px solid #fff;
-}
-/* black shirt */
-
-/* white shirt */
-.whiteShirtCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.whiteShirtCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    padding: 5px;
-    border: 2px solid #fff
-}
-
-.whiteShirtImg img {
-    width: 328px;
-    height: 500px;
-    border: 2px solid #fff;
-}
-/* white shirt */
-
-/* beige hoodie */
-.beigeHoodieCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.beigeHoodieCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    padding: 5px;
-    border: 2px solid #fff
-}
-
-.beigeHoodieImg img {
-    width: 328px;
-    height: 500px;
-    border: 2px solid #fff;
-}
-/* beige hoodie */
-
-/* denim jacket */
-.denimJacketCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.denimJacketCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    padding: 5px;
-    border: 2px solid #fff;
-}
-
-.denimJacketImg img {
-    width: 328px;
-    height: 500px;
-    border: 2px solid #fff;
-}
-/* denim jacket */
+/* tops images custom */
 /* men tops */
 
 /* men pants */
