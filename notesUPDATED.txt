@@ -66,3 +66,4 @@ Men.html/css
     combined accessories content container and image containers into one class and created seperate classes for custom image dimensions
 Men.css
     adjusted pants & accessories container, header, and content container dimensions
+    setup @media and @media container utility
