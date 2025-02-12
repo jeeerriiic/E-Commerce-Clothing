@@ -102,6 +102,32 @@ nav a {
 }
 /* navbar */
 
+/* buy container */
+.buyContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.buyContainer h4 {
+    color: #fff;
+}
+
+.buyContainer a {
+    width: 100px;
+    padding: 5px;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
+    color: #000;
+    background-color: #e3e3e3e8;
+    text-decoration: none;
+}
+
+.buyContainer a:hover {
+    text-decoration: underline;
+}
+/* buy container */
+
 /* men tops */
 .topsBackground {
     display: flex;
@@ -131,32 +157,6 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
-
-/* buy container */
-.buyTopsCont {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-.buyTopsCont h4 {
-    color: #fff;
-}
-
-.buyTopsCont a {
-    width: 100px;
-    padding: 5px;
-    font-weight: bold;
-    letter-spacing: 0.5rem;
-    color: #000;
-    background-color: #e3e3e3e8;
-    text-decoration: none;
-}
-
-.buyTopsCont a:hover {
-    text-decoration: underline;
-}
-/* buy container */
 
 /* heartbreak shirt */
 .heartBreakCont {
@@ -268,16 +268,14 @@ nav a {
 .pantsBackground {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
-    margin-bottom: 4%;
-    padding-bottom: 1%;
+    margin-bottom: 5%;
     background-color: #00000055;
 }
 
 .pantsHeader {
     font-size: 5rem;
     width: 100%;
-    margin: 2% 5%;
+    margin: 40px;
     background-color: #f9e4bc5c;
     border: 2px solid #fff;
 }
@@ -286,42 +284,15 @@ nav a {
 .pantsMainCont {
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-between;
-    width: 90%;
+    width: 100%;
     gap: 2%;
-    margin: 0% 5% 1% 5%;
+    margin: 0 40px 40px 40px;
     padding: 2%;
     overflow-y: hidden;
     overflow-x: auto;
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
-
-/* buy container */
-.buyPantsCont {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-.buyPantsCont h4 {
-    color: #fff;
-}
-
-.buyPantsCont a {
-    width: 100px;
-    padding: 5px;
-    font-weight: bold;
-    letter-spacing: 0.5rem;
-    color: #000;
-    background-color: #e3e3e3e8;
-    text-decoration: none;
-}
-
-.buyPantsCont a:hover {
-    text-decoration: underline;
-}
-/* buy container */
 
 /* 501 Levis */
 .levis501Cont {
@@ -369,30 +340,17 @@ nav a {
 /* men pants */
 
 /* men accessories */
-.accessoriesBackground a {
-    width: 14%;
-    letter-spacing: 0.5rem;
-    color: #fff;
-    text-decoration: none;
-}
-
-.accessoriesBackground a:hover {
-    text-decoration: underline;
-}
-
 .accessoriesBackground {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
-    margin-bottom: 4%;
-    padding-bottom: 1%;
+    margin-bottom: 5%;
     background-color: #00000055;
 }
 
 .accessoriesHeader {
     font-size: 5rem;
     width: 100%;
-    margin: 2% 5%;
+    margin: 40px;
     background-color: #f9e4bc5c;
     border: 2px solid #fff;
 }
@@ -401,42 +359,15 @@ nav a {
 .accessoriesMainCont {
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-between;
-    width: 90%;
+    width: 100%;
     gap: 2%;
-    margin: 0% 5% 1% 5%;
+    margin: 0 40px 40px 40px;
     padding: 2%;
     overflow-y: hidden;
     overflow-x: auto;
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
-
-/* buy container */
-.buyAccessoriesCont {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-.buyAccessoriesCont h4 {
-    color: #fff;
-}
-
-.buyAccessoriesCont a {
-    width: 100px;
-    padding: 5px;
-    font-weight: bold;
-    letter-spacing: 0.5rem;
-    color: #000;
-    background-color: #e3e3e3e8;
-    text-decoration: none;
-}
-
-.buyAccessoriesCont a:hover {
-    text-decoration: underline;
-}
-/* buy container */
 
 /* ice cream cap */
 .iceCreamCapCont {
