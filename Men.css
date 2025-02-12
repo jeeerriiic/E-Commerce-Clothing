@@ -208,59 +208,35 @@ nav a {
 .pantsMainCont {
     display: flex;
     flex-wrap: nowrap;
+    justify-content: space-evenly;
     width: 100%;
     gap: 2%;
     margin: 0 40px 40px 40px;
     padding: 2%;
-    overflow-y: hidden;
-    overflow-x: auto;
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
 
-/* 501 Levis */
-.levis501Cont {
+/* pants images */
+.pantsContentContainer {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
 }
 
-.levis501Cont h3 {
+.pantsContentContainer h3 {
     color: #000;
     background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
+    padding: 5px;
     border: 2px solid #fff
 }
 
-.levis501Img img {
-    width: 78.5%;
+.pantsContentContainerImgs img {
+    width: 650px;
+    height: 400px;
     border: 2px solid #fff;
 }
-/* 501 Levis */
-
-/* 510 Levis */
-.levis510Cont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.levis510Cont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
-.levis510Img img {
-    width: 70%;
-    border: 2px solid #fff;
-}
-/* 510 Levis */
+/* pants images */
 /* men pants */
 
 /* men accessories */
