@@ -344,3 +344,66 @@ footer a:hover {
     padding: 0.5% 1%;
 }
 /* footer */
+
+/* media */
+/* Container Utility */
+.container {
+    max-width: 1536px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #fff;
+}
+/* Container Utility */
+
+/* 2XL */
+@media (max-width: 1536px) {
+    .container {
+        max-width: 1280px;
+    }
+}
+/* 2XL */
+
+/* XL */
+@media (max-width: 1280px) {
+    .container {
+        max-width: 1024px;
+        border: 2px solid red;
+    }
+}
+/* XL */
+
+/* L */
+@media (max-width: 1024px) {
+    .container {
+        max-width: 768px;
+        border: 2px solid yellow;
+    }
+}
+/* L */
+
+/* M */
+@media (max-width: 768px) {
+    .container {
+        max-width: 640px;
+        border: 2px solid green;
+    }
+}
+/* M */
+
+/* S */
+@media (max-width: 640px) {
+    .container {
+        max-width: 1280px;
+        border: 2px solid blue;
+    }
+}
+/* S */
+
+/* XS */
+@media (max-width: 475px) {
+    .container {
+        max-width: 100%;
+    }
+}
+/* XS */
+/* media */
