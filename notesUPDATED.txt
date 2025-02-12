@@ -63,5 +63,6 @@ Men.html/css
     combined all buy containers into one class
     combined tops content containers and image containers into one class and created a seperate class for custom image dimensions
     combined pants content into one class
+    combined accessories content container and image containers into one class and created seperate classes for custom image dimensions
 Men.css
     adjusted pants & accessories container, header, and content container dimensions
