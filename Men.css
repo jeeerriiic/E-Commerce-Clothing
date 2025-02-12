@@ -269,137 +269,50 @@ nav a {
 }
 /* MAIN CONTAINER */
 
-/* ice cream cap */
-.iceCreamCapCont {
+/* accessories images */
+.accessoriesContentContainer {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
 }
 
-.iceCreamCapCont h3 {
+.accessoriesContentContainer h3 {
     color: #000;
     background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
+    padding: 5px;
     border: 2px solid #fff
 }
 
-.iceCreamCapImg img {
-    width: 525.5px;
+/* Width */
+.accessoriesContentContainerImgsW img {
+    width: 500px;
+    height: 350px;
     border: 2px solid #fff;
 }
-/* ice cream cap */
+/* Width */
 
-/* beanies */
-.beaniesCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.beaniesCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
-.beaniesImg img {
-    width: 250px;
+/* Height */
+.accessoriesContentContainerImgsH img {
+    width: 300px;
+    height: 350px;
     border: 2px solid #fff;
 }
-/* beanies */
+/* Height */
 
-/* virgin mary necklace */
-.virginMaryNecklaceCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.virginMaryNecklaceCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
-.virginMaryNecklaceImg img {
-    width: 496px;
+/* Custom */
+.customW img {
+    width: 500px;
+    height: 329px;
     border: 2px solid #fff;
 }
-/* virgin mary necklace */
 
-/* gold necklace */
-.goldNecklaceCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.goldNecklaceCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
-.goldNecklaceImg img {
-    width: 265px;
+.customH img {
+    width: 300px;
+    height: 329px;
     border: 2px solid #fff;
 }
-/* gold necklace */
-
-/* seiko speedtimer ssc813 */
-.seikoSpeedtimerSSC813Cont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.seikoSpeedtimerSSC813Cont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
-.seikoSpeedtimerSSC813Img img {
-    width: 496px;
-    border: 2px solid #fff;
-}
-/* seiko speedtimer ssc813 */
-
-/* seiko sarb033 */
-.seikoSarb033Cont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.seikoSarb033Cont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
-.seikoSarb033Img img {
-    width: 447px;
-    border: 2px solid #fff;
-}
-/* seiko sarb033 */
+/* Custom */
+/* accessories images */
 /* men accessories */
 
 /* footer */
