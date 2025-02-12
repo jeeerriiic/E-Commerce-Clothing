@@ -57,3 +57,9 @@ Men.css
     tops section finished
 
 ** still need to work on pants and accessories sections **
+
+2/12/25
+Men.html/css
+    combined all buy containers into one class
+Men.css
+    adjusted pants & accessories container, header, and content container dimensions
