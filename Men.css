@@ -443,7 +443,36 @@ footer a:hover {
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
-        border: 2px solid yellow;
+        /* border: 2px solid yellow; */
+    }
+
+    header {
+        height: 275px;
+    }
+
+    header h1 {
+        font-size: 9rem;
+    }
+
+    .navTitle {
+        padding: 2%;
+    }
+
+    #personal {
+        right: 100px;
+    }
+
+    .buyContainer {
+        margin-bottom: 20px;
+        border-bottom: 1px solid #fff;
+    }
+
+    .topsHeader, .pantsHeader, .accessoriesHeader {
+        font-size: 4rem;
+    }
+
+    .topsMainCont, .pantsMainCont, .accessoriesMainCont {
+        flex-direction: column;
     }
 }
 /* L */
