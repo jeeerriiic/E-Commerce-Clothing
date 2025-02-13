@@ -367,7 +367,74 @@ footer a:hover {
 @media (max-width: 1280px) {
     .container {
         max-width: 1024px;
-        border: 2px solid red;
+        /* border: 2px solid red; */
+    }
+
+    header {
+        height: 300px;
+    }
+
+    header h1 {
+        font-size: 10rem;
+    }
+
+    #personal {
+        right: 70px;
+    }
+
+    .topsHeader {
+        font-size: 4.5rem;
+    }
+
+    .topsContentContainerImgs img {
+        width: 300px;
+        height: 450px;
+    }
+
+    .heartBreakImgCustom img {
+        width: 310px;
+        height: 450px;
+    }
+
+    .pantsHeader {
+        font-size: 4.5rem;
+    }
+
+    .pantsContentContainerImgs img {
+        width: 400px;
+        height: 250px;
+    }
+
+    .accessoriesHeader {
+        font-size: 4.5rem;
+    }
+
+    .accessoriesContentContainerImgsW img {
+    width: 450px;
+    height: 300px;
+    border: 2px solid #fff;
+    }
+
+    .accessoriesContentContainerImgsH img {
+    width: 250px;
+    height: 300px;
+    border: 2px solid #fff;
+    }
+
+    .customW img {
+    width: 450px;
+    height: 279px;
+    border: 2px solid #fff;
+    }
+
+    .customH img {
+    width: 300px;
+    height: 279px;
+    border: 2px solid #fff;
+    }
+
+    footer {
+        font-size: 0.8rem;
     }
 }
 /* XL */
