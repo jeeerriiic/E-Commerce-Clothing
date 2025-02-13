@@ -64,7 +64,13 @@ Men.html/css
     combined tops content containers and image containers into one class and created a seperate class for custom image dimensions
     combined pants content into one class
     combined accessories content container and image containers into one class and created seperate classes for custom image dimensions
+Men.html
+    removed seiko speedtimer SSC813 content
 Men.css
     adjusted pants & accessories container, header, and content container dimensions
     setup @media and @media container utility
+
     ** work on @media XL-S queries **
+        finished @media XL
+
+!! work on @media L-S queries !!
