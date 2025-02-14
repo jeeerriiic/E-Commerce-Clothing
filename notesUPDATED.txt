@@ -91,3 +91,7 @@ Men.html/css
 ** [work on Women.html/css
     Kids.html/css
     references.html/css] **
+
+2/14/25
+STYLE/Men.css
+    removed some unnecessary comments
