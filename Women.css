@@ -128,54 +128,50 @@ nav a {
 }
 /* buy container */
 
-/* women tops */
-.topsBackground {
+/* same styles */
+.topsBackground, .pantsBackground, .accessoriesBackground {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
-    margin-bottom: 4%;
-    padding-bottom: 1%;
+    margin-bottom: 5%;
     background-color: #00000055;
 }
 
-.topsHeader {
+.topsHeader, .pantsHeader, .accessoriesHeader {
     font-size: 5rem;
     width: 100%;
-    margin: 2% 5%;
+    margin: 40px;
     background-color: #f9e4bc5c;
     border: 2px solid #fff;
 }
 
-/* MAIN CONTAINER */
-.topsMainCont {
+.topsMainCont, .pantsMainCont, .accessoriesMainCont {
     display: flex;
     flex-wrap: nowrap;
-    width: 90%;
+    width: 100%;
     gap: 2%;
-    margin: 0% 5% 1% 5%;
+    margin: 0 40px 40px 40px;
     padding: 2%;
     overflow-y: hidden;
     overflow-x: auto;
     background-color: #00000086;
 }
-/* MAIN CONTAINER */
 
-/* black crop top */
-.blackCropTopCont {
+.topsContentContainer, .pantsContentContainer, .accessoriesContentContainer {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
 }
 
-.blackCropTopCont h3 {
+.topsContentContainer h3, .pantsContentContainer h3, .accessoriesContentContainer h3 {
     color: #000;
     background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
+    padding: 5px;
     border: 2px solid #fff
 }
+/* same styles */
 
+/* women tops */
+/* black crop top */
 .blackCropTopImg img {
     width: 560px;
     border: 2px solid #fff;
@@ -183,21 +179,6 @@ nav a {
 /* black crop top */
 
 /* grey crop top */
-.greyCropTopCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.greyCropTopCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .greyCropTopImg img {
     width: 239px;
     border: 2px solid #fff;
@@ -205,21 +186,6 @@ nav a {
 /* grey crop top */
 
 /* break away today shirt */
-.breakAwayTodayCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.breakAwayTodayCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .breakAwayTodayImg img {
     width: 531px;
     border: 2px solid #fff;
@@ -227,21 +193,6 @@ nav a {
 /* break away today shirt */
 
 /* true colors shirt */
-.trueColorsCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.trueColorsCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .trueColorsImg img {
     width: 241px;
     border: 2px solid #fff;
@@ -249,21 +200,6 @@ nav a {
 /* true colors shirt */
 
 /* camp teresita pines shirt */
-.campTeresitaPinesCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.campTeresitaPinesCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .campTeresitaPinesImg img {
     width: 530px;
     border: 2px solid #fff;
@@ -271,21 +207,6 @@ nav a {
 /* camp teresita pines shirt */
 
 /* pink champion sweater */
-.pinkChampionSweaterCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.pinkChampionSweaterCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .pinkChampionSweaterImg img {
     width: 238px;
     border: 2px solid #fff;
@@ -293,21 +214,6 @@ nav a {
 /* pink champion sweater */
 
 /* denim jacket */
-.denimJacketCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.denimJacketCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .denimJacketImg img {
     width: 215px;
     border: 2px solid #fff;
@@ -316,54 +222,7 @@ nav a {
 /* women tops */
 
 /* women pants */
-.pantsBackground {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    margin-bottom: 4%;
-    padding-bottom: 1%;
-    background-color: #00000055;
-}
-
-.pantsHeader {
-    font-size: 5rem;
-    width: 100%;
-    margin: 2% 5%;
-    background-color: #f9e4bc5c;
-    border: 2px solid #fff;
-}
-
-/* MAIN CONTAINER */
-.pantsMainCont {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-evenly;
-    width: 90%;
-    gap: 2%;
-    margin: 0% 5% 1% 5%;
-    padding: 2%;
-    overflow-y: hidden;
-    overflow-x: auto;
-    background-color: #00000086;
-}
-/* MAIN CONTAINER */
-
 /* skinny jeans */
-.skinnyJeansCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.skinnyJeansCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .skinnyJeansImg img {
     width: 400px;
     border: 2px solid #fff;
@@ -371,21 +230,6 @@ nav a {
 /* skinny jeans */
 
 /* loose jeans */
-.looseJeansCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.looseJeansCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .looseJeansImg img {
     width: 447px;
     border: 2px solid #fff;
@@ -394,54 +238,7 @@ nav a {
 /* women pants */
 
 /* women accessories */
-.accessoriesBackground {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    margin-bottom: 4%;
-    padding-bottom: 1%;
-    background-color: #00000055;
-}
-
-.accessoriesHeader {
-    font-size: 5rem;
-    width: 100%;
-    margin: 2% 5%;
-    background-color: #f9e4bc5c;
-    border: 2px solid #fff;
-}
-
-/* MAIN CONTAINER */
-.accessoriesMainCont {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    width: 90%;
-    gap: 2%;
-    margin: 0% 5% 1% 5%;
-    padding: 2%;
-    overflow-y: hidden;
-    overflow-x: auto;
-    background-color: #00000086;
-}
-/* MAIN CONTAINER */
-
 /* gold emerald necklace */
-.goldEmeraldNecklaceCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.goldEmeraldNecklaceCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .goldEmeraldNecklaceImg img {
     width: 225px;
     border: 2px solid #fff;
@@ -449,21 +246,6 @@ nav a {
 /* gold emerald necklace */
 
 /* silver ruby heart necklace */
-.silverRubyHeartNecklaceCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.silverRubyHeartNecklaceCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .silverRubyHeartNecklaceImg img {
     width: 508px;
     border: 2px solid #fff;
@@ -471,21 +253,6 @@ nav a {
 /* silver ruby heart necklace */
 
 /* blue sapphire topaz ring */
-.blueSapphireTopazRingCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.blueSapphireTopazRingCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .blueSapphireTopazRingImg img {
     width: 509px;
     border: 2px solid #fff;
@@ -493,21 +260,6 @@ nav a {
 /* blue sapphire topaz ring */
 
 /* peridot birthstone ring */
-.peridotBirthstoneRingCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.peridotBirthstoneRingCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .peridotBirthstoneRingImg img {
     width: 510px;
     border: 2px solid #fff;
@@ -515,21 +267,6 @@ nav a {
 /* peridot birthstone ring */
 
 /* rose gold ring */
-.roseGoldRingCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.roseGoldRingCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .roseGoldRingImg img {
     width: 541px;
     border: 2px solid #fff;
@@ -537,21 +274,6 @@ nav a {
 /* rose gold ring */
 
 /* pink bag */
-.pinkBagCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.pinkBagCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .pinkBagImg img {
     width: 258px;
     border: 2px solid #fff;
@@ -559,21 +281,6 @@ nav a {
 /* pink bag */
 
 /* red bag */
-.redBagCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-}
-
-.redBagCont h3 {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 5%;
-    padding: 2% 0%;
-    border: 2px solid #fff
-}
-
 .redBagImg img {
     width: 288px;
     border: 2px solid #fff;
