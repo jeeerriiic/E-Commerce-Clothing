@@ -171,9 +171,31 @@ nav a {
 /* same styles */
 
 /* women tops */
+/* tops images */
+.topsContentContainer img {
+    border: 2px solid #fff;
+}
 
+.blackCropTop img {
+    width: 500px;
+    height: 422px;
+}
 
+.breakAway img {
+    width: 500px;
+    height: 400px;
+}
 
+.denimJacket img {
+    width: 300px;
+    height: 400px;
+}
+
+.customTops img {
+    width: 325px;
+    height: 378px;
+}
+/* tops images */
 /* women tops */
 
 /* women pants */
