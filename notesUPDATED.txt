@@ -98,5 +98,7 @@ STYLE/Men.css
 Women.html/css
     combined all buy containers into one class
     removed some unnecessary lines in css
+    changed the classes of the content containers to match the corresponding section
+    condensed css by combining all classes with the same styles
 Women.html
     added alts to all img tags
