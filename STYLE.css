@@ -88,8 +88,8 @@ nav a {
 }
 /* navbar */
 
-/* men section */
-.MEN {
+/* same styles */
+.MEN, .WOMEN, .KIDS {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -99,7 +99,7 @@ nav a {
     background-color: #00000055;
 }
 
-.MEN a {
+.MEN a, .WOMEN a, .KIDS a {
     color: #000;
     background-color: #f9e4bc5c;
     width: 100%;
@@ -111,12 +111,12 @@ nav a {
     border: 1px solid #fff;
 }
 
-.MEN a:hover {
+.MEN a:hover, .WOMEN a:hover, .KIDS a:hover {
     text-decoration: underline;
     background-color: #e3e3e3;
 }
 
-.menHeader {
+.menHeader, .womenHeader, .kidsHeader {
     font-size: 5rem;
     width: 100%;
     margin: 40px 0;
@@ -124,39 +124,40 @@ nav a {
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
 }
-/* men content container */
-.menContentContainer {
+
+.menContentContainer, .womenContentContainer, .kidsContentContainer {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
-/* men content container */
 
-/* men tops */
-.menTopsCont {
+.menTopsCont, .kidsTopsCont {
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 40%;
 }
 
-.menTopsImg img {
+.womenAccessoriesCont, .kidsAccessoriesCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 20%;
+}
+
+.menTopsImg img, .menPantsImg img, .menAccessoriesImg img, .womenTopsImg img, .womenPantsImg img, .womenAccessoriesImg img, .kidsTopsImg img, .kidsPantsImg img, .kidsAccessoriesImg img {
     width: 100%;
     border: 1px solid #fff;
 }
-/* men tops */
+/* same styles */
 
+/* men section */
 /* men pants */
 .menPantsCont {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     width: 25%;
-}
-
-.menPantsImg img {
-    width: 100%;
-    border: 1px solid #fff;
 }
 /* men pants */
 
@@ -167,69 +168,16 @@ nav a {
     justify-content: center;
     width: 22%;
 }
-
-.menAccessoriesImg img {
-    width: 100%;
-    border: 1px solid #fff;
-}
 /* men accessories */
 /* men section */
 
 /* women section */
-.WOMEN {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 100%;
-    margin-bottom: 40px;
-    padding: 0 0 40px 0;
-    background-color: #00000055;
-}
-
-.WOMEN a {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 20px;
-    font-size: 2.2rem;
-    font-weight: bolder;
-    letter-spacing: 0;
-    text-decoration: none;
-    border: 1px solid #fff;
-}
-
-.WOMEN a:hover {
-    text-decoration: underline;
-    background-color: #e3e3e3;
-}
-
-.womenHeader {
-    font-size: 5rem;
-    width: 100%;
-    margin: 40px 0;
-    background-color: #f9e4bc5c;
-    border: 1px solid #fff;
-}
-
-/* women content container */
-.womenContentContainer {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-/* women content container */
-
 /* women tops */
 .womenTopsCont {
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 30%;
-}
-
-.womenTopsImg img {
-    width: 100%;
-    border: 1px solid #fff;
 }
 /* women tops */
 
@@ -241,85 +189,10 @@ nav a {
     width: 40%;
     margin: 0% 2.4%;
 }
-
-.womenPantsImg img {
-    width: 100%;
-    border: 1px solid #fff;
-}
 /* women pants */
-
-/* women accessories */
-.womenAccessoriesCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    width: 20%;
-}
-
-.womenAccessoriesImg img {
-    width: 100%;
-    border: 1px solid #fff;
-}
-/* women accessories */
 /* women section */
 
 /* kids section */
-.KIDS {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 100%;
-    margin-bottom: 40px;
-    padding: 0 0 40px 0;
-    background-color: #00000055;
-}
-
-.KIDS a {
-    color: #000;
-    background-color: #f9e4bc5c;
-    width: 100%;
-    margin-top: 20px;
-    font-size: 2.2rem;
-    font-weight: bolder;
-    letter-spacing: 0;
-    text-decoration: none;
-    border: 1px solid #fff;
-}
-
-.KIDS a:hover {
-    text-decoration: underline;
-    background-color: #e3e3e3;
-}
-
-.kidsHeader {
-    font-size: 5rem;
-    width: 100%;
-    margin: 40px 0;
-    background-color: #f9e4bc5c;
-    border: 1px solid #fff;
-}
-/* kids content container */
-.kidsContentContainer {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-/* kids content container */
-
-/* kids tops */
-.kidsTopsCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 40%;
-}
-
-.kidsTopsImg img {
-    width: 100%;
-    border: 1px solid #fff;
-}
-/* kids tops */
-
 /* kids pants */
 .kidsPantsCont {
     display: flex;
@@ -328,26 +201,7 @@ nav a {
     width: 30%;
     margin: 0% 2.4%;
 }
-
-.kidsPantsImg img {
-    width: 100%;
-    border: 1px solid #fff;
-}
 /* kids pants */
-
-/* kids accessories */
-.kidsAccessoriesCont {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 20%;
-}
-
-.kidsAccessoriesImg img {
-    width: 100%;
-    border: 1px solid #fff;
-}
-/* kids accessories */
 /* kids section */
 
 /* footer */
@@ -421,27 +275,11 @@ footer a:hover {
         right: 70px;
     }
 
-    .MEN a {
+    .MEN a, .WOMEN a, .KIDS a {
         font-size: 1.8rem;
     }
 
-    .menHeader {
-        font-size: 4.5rem;
-    }
-
-    .WOMEN a {
-        font-size: 1.8rem;
-    }
-
-    .womenHeader {
-        font-size: 4.5rem;
-    }
-
-    .KIDS a {
-        font-size: 1.8rem;
-    }
-
-    .kidsHeader {
+    .menHeader, .womenHeader, .kidsHeader {
         font-size: 4.5rem;
     }
 
@@ -478,24 +316,12 @@ footer a:hover {
         font-size: 1.4rem;
     }
 
-    .menHeader {
+    .menHeader, .womenHeader, .kidsHeader {
         font-size: 4rem;
     }
 
-    .WOMEN a {
+    .WOMEN a, .KIDS a {
         font-size: 1.3rem;
-    }
-
-    .womenHeader {
-        font-size: 4rem;
-    }
-
-    .KIDS a {
-        font-size: 1.3rem;
-    }
-
-    .kidsHeader {
-        font-size: 4rem;
     }
 }
 /* L */
@@ -523,24 +349,12 @@ footer a:hover {
         font-size: 1.2rem;
     }
 
-    .menHeader {
+    .menHeader, .womenHeader, .kidsHeader {
         font-size: 3.5rem;
     }
 
-    .WOMEN a {
+    .WOMEN a, .KIDS a {
         font-size: 1.1rem;
-    }
-
-    .womenHeader {
-        font-size: 3.5rem;
-    }
-
-    .KIDS a {
-        font-size: 1.1rem;
-    }
-
-    .kidsHeader {
-        font-size: 3.5rem;
     }
 }
 /* M */
@@ -568,24 +382,12 @@ footer a:hover {
         font-size: 0.9rem;
     }
 
-    .menHeader {
+    .menHeader, .womenHeader, .kidsHeader {
         font-size: 3rem;
     }
 
-    .WOMEN a {
+    .WOMEN a, .KIDS a {
         font-size: 0.8rem;
-    }
-
-    .womenHeader {
-        font-size: 3rem;
-    }
-
-    .KIDS a {
-        font-size: 0.8rem;
-    }
-
-    .kidsHeader {
-        font-size: 3rem;
     }
 
     footer {
