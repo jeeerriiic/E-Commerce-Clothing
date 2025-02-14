@@ -315,25 +315,21 @@ footer a:hover {
     .accessoriesContentContainerImgsW img {
     width: 450px;
     height: 300px;
-    border: 2px solid #fff;
     }
 
     .accessoriesContentContainerImgsH img {
     width: 250px;
     height: 300px;
-    border: 2px solid #fff;
     }
 
     .customW img {
     width: 450px;
     height: 279px;
-    border: 2px solid #fff;
     }
 
     .customH img {
     width: 300px;
     height: 279px;
-    border: 2px solid #fff;
     }
 
     footer {
@@ -384,7 +380,32 @@ footer a:hover {
 @media (max-width: 768px) {
     .container {
         max-width: 640px;
-        border: 2px solid green;
+    }
+
+    header {
+        height: 250px;
+    }
+
+    header h1 {
+        font-size: 8rem;
+    }
+
+    #personal {
+        right: 110px;
+    }
+
+    .topsHeader, .pantsHeader, .accessoriesHeader {
+        font-size: 3.5rem;
+    }
+
+    .topsContentContainerImgs img {
+        width: 250px;
+        height: 400px;
+    }
+
+    .heartBreakImgCustom img {
+        width: 260px;
+        height: 400px;
     }
 }
 /* M */
