@@ -101,6 +101,12 @@ Women.html/css
     removed some unnecessary lines in css
     changed the classes of the content containers to match the corresponding section
     condensed css by combining all classes with the same styles
+    finished tops section
 Women.html
     added alts to all img tags
     deleted grey crop top & camp pines t shirt sections
+    updated tops section classes
+Women.css
+    adjusted all imgs dimensions
+
+** still need to work on pants and accessories sections **
