@@ -95,5 +95,8 @@ Men.html/css
 2/14/25
 STYLE/Men.css
     removed some unnecessary comments
+Women.html/css
+    combined all buy containers into one class
+    removed some unnecessary lines in css
 Women.html
     added alts to all img tags
