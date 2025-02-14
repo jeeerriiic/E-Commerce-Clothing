@@ -76,6 +76,8 @@ Men.css
 !! work on @media L-S queries !!
 
 2/13/25
+STYLE.css
+    cleaned/condensed code
 Men.css
     @media
         finished L
@@ -83,3 +85,9 @@ Men.css
         finished S
     cleaned/condensed code
     all @media is finished
+Men.html/css
+    finished
+
+** [work on Women.html/css
+    Kids.html/css
+    references.html/css] **
