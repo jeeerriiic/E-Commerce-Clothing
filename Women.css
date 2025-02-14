@@ -1,5 +1,4 @@
 /* body */
-
 body {
     font-size: 1rem;
     font-family: 'Times New Roman', Times, serif;
@@ -11,11 +10,9 @@ body {
     background-image: url(./refWomenPage/Arturo\ Rey\ Women\ HTML\ bodyBackground.jpg);
     background-position: center;
 }
-
 /* body */
 
 /* header */
-
 header {
     display: block;
     width: 100%;
@@ -33,11 +30,9 @@ header h1 {
     text-decoration: line-through;
     text-decoration-thickness: 2%;
 }
-
 /* header */
 
 /* section header ids */
-
 #TOPS {
     scroll-margin-top: 75px;
 }
@@ -49,11 +44,9 @@ header h1 {
 #ACCESSORIES {
     scroll-margin-top: 75px;
 }
-
 /* section header ids */
 
 /* navbar */
-
 nav {
     font-size: 0.9rem;
     letter-spacing: 0;
@@ -92,11 +85,8 @@ nav a {
 #personal {
     display: flex;
     position: absolute;
-    right: 3%;
-    margin: 0%;
+    right: 45px;
     width: 25%;
-    min-width: 10%;
-    max-height: 20px;
     white-space: nowrap;
 }
 
@@ -110,11 +100,35 @@ nav a {
 #personal a:hover {
     text-decoration: underline;
 }
-
 /* navbar */
 
-/* women tops */
+/* buy container */
+.buyContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
 
+.buyContainer h4 {
+    color: #fff;
+}
+
+.buyContainer a {
+    width: 100px;
+    padding: 5px;
+    font-weight: bold;
+    letter-spacing: 0.5rem;
+    color: #000;
+    background-color: #e3e3e3e8;
+    text-decoration: none;
+}
+
+.buyContainer a:hover {
+    text-decoration: underline;
+}
+/* buy container */
+
+/* women tops */
 .topsBackground {
     display: flex;
     flex-wrap: wrap;
@@ -145,37 +159,6 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
-
-/* buy container */
-.buyTopsCont {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    width: 100%;
-    min-height: 50px;
-}
-
-.buyTopsCont h4 {
-    font-size: 1rem;
-    letter-spacing: 0.8rem;
-    color: #fff;
-}
-
-.buyTopsCont a {
-    width: 100px;
-    padding: 1% 0%;
-    font-size: 1rem;
-    font-weight: bold;
-    letter-spacing: 0.5rem;
-    color: #000;
-    background-color: #e3e3e3e8;
-    text-decoration: none;
-}
-
-.buyTopsCont a:hover {
-    text-decoration: underline;
-}
-/* buy container */
 
 /* black crop top */
 .blackCropTopCont {
@@ -330,11 +313,9 @@ nav a {
     border: 2px solid #fff;
 }
 /* denim jacket */
-
 /* women tops */
 
 /* women pants */
-
 .pantsBackground {
     display: flex;
     flex-wrap: wrap;
@@ -366,37 +347,6 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
-
-/* buy container */
-.buyPantsCont {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    width: 100%;
-    min-height: 50px;
-}
-
-.buyPantsCont h4 {
-    font-size: 1rem;
-    letter-spacing: 0.8rem;
-    color: #fff;
-}
-
-.buyPantsCont a {
-    width: 100px;
-    padding: 1% 0%;
-    font-size: 1rem;
-    font-weight: bold;
-    letter-spacing: 0.5rem;
-    color: #000;
-    background-color: #e3e3e3e8;
-    text-decoration: none;
-}
-
-.buyPantsCont a:hover {
-    text-decoration: underline;
-}
-/* buy container */
 
 /* skinny jeans */
 .skinnyJeansCont {
@@ -441,11 +391,9 @@ nav a {
     border: 2px solid #fff;
 }
 /* loose jeans */
-
 /* women pants */
 
 /* women accessories */
-
 .accessoriesBackground {
     display: flex;
     flex-wrap: wrap;
@@ -477,37 +425,6 @@ nav a {
     background-color: #00000086;
 }
 /* MAIN CONTAINER */
-
-/* buy container */
-.buyAccessoriesCont {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    width: 100%;
-    min-height: 50px;
-}
-
-.buyAccessoriesCont h4 {
-    font-size: 1rem;
-    letter-spacing: 0.8rem;
-    color: #fff;
-}
-
-.buyAccessoriesCont a {
-    width: 100px;
-    padding: 1% 0%;
-    font-size: 1rem;
-    font-weight: bold;
-    letter-spacing: 0.5rem;
-    color: #000;
-    background-color: #e3e3e3e8;
-    text-decoration: none;
-}
-
-.buyAccessoriesCont a:hover {
-    text-decoration: underline;
-}
-/* buy container */
 
 /* gold emerald necklace */
 .goldEmeraldNecklaceCont {
@@ -662,11 +579,9 @@ nav a {
     border: 2px solid #fff;
 }
 /* red bag */
-
 /* women accessories */
 
 /* footer */
-
 footer {
     display: flex;
     justify-content: space-between;
@@ -694,5 +609,4 @@ footer a:hover {
     margin: 0% 1% 0% 0%;
     padding: 0.5% 1%;
 }
-
 /* footer */
