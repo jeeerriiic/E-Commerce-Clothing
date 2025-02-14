@@ -278,7 +278,6 @@ footer a:hover {
 @media (max-width: 1280px) {
     .container {
         max-width: 1024px;
-        /* border: 2px solid red; */
     }
 
     header {
@@ -342,7 +341,6 @@ footer a:hover {
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
-        /* border: 2px solid yellow; */
     }
 
     header {

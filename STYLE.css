@@ -151,7 +151,6 @@ nav a {
 }
 /* same styles */
 
-/* men section */
 /* men pants */
 .menPantsCont {
     display: flex;
@@ -169,9 +168,7 @@ nav a {
     width: 22%;
 }
 /* men accessories */
-/* men section */
 
-/* women section */
 /* women tops */
 .womenTopsCont {
     display: flex;
@@ -190,9 +187,7 @@ nav a {
     margin: 0% 2.4%;
 }
 /* women pants */
-/* women section */
 
-/* kids section */
 /* kids pants */
 .kidsPantsCont {
     display: flex;
@@ -202,7 +197,6 @@ nav a {
     margin: 0% 2.4%;
 }
 /* kids pants */
-/* kids section */
 
 /* footer */
 #contact {
@@ -260,7 +254,6 @@ footer a:hover {
 @media (max-width: 1280px) {
     .container {
         max-width: 1024px;
-        /* border: 2px solid red; */
     }
 
     header {
@@ -293,7 +286,6 @@ footer a:hover {
 @media (max-width: 1024px) {
     .container {
         max-width: 768px;
-        /* border: 2px solid yellow; */
     }
 
     header {
@@ -330,7 +322,6 @@ footer a:hover {
 @media (max-width: 768px) {
     .container {
         max-width: 640px;
-        /* border: 2px solid green; */
     }
 
     header {
@@ -363,7 +354,6 @@ footer a:hover {
 @media (max-width: 640px) {
     .container {
         max-width: 1280px;
-        /* border: 2px solid blue; */
     }
 
     header {
