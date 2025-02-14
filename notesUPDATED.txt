@@ -95,3 +95,5 @@ Men.html/css
 2/14/25
 STYLE/Men.css
     removed some unnecessary comments
+Women.html
+    added alts to all img tags
