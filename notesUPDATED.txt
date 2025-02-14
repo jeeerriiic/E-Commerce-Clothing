@@ -93,6 +93,7 @@ Men.html/css
     references.html/css] **
 
 2/14/25
+!! delted mens & womens reference pictures that are no longer used
 STYLE/Men.css
     removed some unnecessary comments
 Women.html/css
@@ -102,3 +103,4 @@ Women.html/css
     condensed css by combining all classes with the same styles
 Women.html
     added alts to all img tags
+    deleted grey crop top & camp pines t shirt sections
