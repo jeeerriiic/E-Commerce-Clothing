@@ -110,3 +110,7 @@ Women.css
     adjusted all imgs dimensions
 
 ** still need to work on pants and accessories sections **
+
+2/22/25
+Women.css
+    finished pants section
