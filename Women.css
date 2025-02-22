@@ -199,16 +199,22 @@ nav a {
 /* women tops */
 
 /* women pants */
+.pantsMainCont {
+    justify-content: space-evenly;
+}
+
 /* skinny jeans */
 .skinnyJeansImg img {
-    width: 400px;
+    width: 425px;
+    height: 525px;
     border: 2px solid #fff;
 }
 /* skinny jeans */
 
 /* loose jeans */
 .looseJeansImg img {
-    width: 447px;
+    width: 425px;
+    height: 525px;
     border: 2px solid #fff;
 }
 /* loose jeans */
