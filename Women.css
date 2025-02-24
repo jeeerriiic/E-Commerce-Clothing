@@ -263,3 +263,155 @@ footer a:hover {
     padding: 0.5% 1%;
 }
 /* footer */
+
+/* media */
+/* Container Utility */
+.container {
+    max-width: 1536px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #fff;
+}
+/* Container Utility */
+
+/* 2XL */
+@media (max-width: 1536px) {
+    .container {
+        max-width: 1280px;
+    }
+}
+/* 2XL */
+
+/* XL */
+@media (max-width: 1280px) {
+    .container {
+        max-width: 1024px;
+        border: 2px solid red;
+    }
+
+    header {
+        height: 300px;
+    }
+
+    header h1 {
+        font-size: 10rem;
+    }
+
+    #personal {
+        right: 70px;
+    }
+
+    .topsHeader, .pantsHeader, .accessoriesHeader {
+        font-size: 4.5rem;
+    }
+
+    footer {
+        font-size: 0.8rem;
+    }
+}
+/* XL */
+
+/* L */
+@media (max-width: 1024px) {
+    .container {
+        max-width: 768px;
+        border: 2px solid orange;
+    }
+
+    header {
+        height: 275px;
+    }
+
+    header h1 {
+        font-size: 9rem;
+    }
+
+    .navTitle {
+        padding: 2%;
+    }
+
+    #personal {
+        right: 100px;
+    }
+
+    .buyContainer {
+        margin-bottom: 20px;
+        border-bottom: 1px solid #fff;
+    }
+
+    .topsHeader, .pantsHeader, .accessoriesHeader {
+        font-size: 4rem;
+    }
+
+    .topsMainCont, .pantsMainCont, .accessoriesMainCont {
+        flex-direction: column;
+    }
+}
+/* L */
+
+/* M */
+@media (max-width: 768px) {
+    .container {
+        max-width: 640px;
+        border: 2px solid yellow;
+    }
+
+    header {
+        height: 250px;
+    }
+
+    header h1 {
+        font-size: 8rem;
+    }
+
+    #personal {
+        right: 110px;
+    }
+
+    .topsHeader, .pantsHeader, .accessoriesHeader {
+        font-size: 3.5rem;
+    }
+}
+/* M */
+
+/* S */
+@media (max-width: 640px) {
+    .container {
+        max-width: 1280px;
+        border: 2px solid green;
+    }
+
+    header {
+        height: 225px;
+    }
+
+    header h1 {
+        font-size: 6.5rem;
+    }
+
+    #personal {
+        right: 125px;
+    }
+
+    .topsHeader, .pantsHeader, .accessoriesHeader {
+        font-size: 3rem;
+    }
+
+    .topsContentContainer h3, .pantsContentContainer h3, .accessoriesContentContainer h3 {
+        font-size: 0.9rem;
+    }
+
+    footer {
+        font-size: 0.7rem;
+    }
+}
+/* S */
+
+/* XS */
+@media (max-width: 475px) {
+    .container {
+        max-width: 100%;
+    }
+}
+/* XS */
+/* media */
