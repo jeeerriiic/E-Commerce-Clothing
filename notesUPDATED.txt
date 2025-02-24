@@ -124,3 +124,5 @@ Women.html
     updated accessories classes
 Women.css
     finished accessories sections
+    setup @media queries
+    adjust img dimensions in each @media from XL-S
