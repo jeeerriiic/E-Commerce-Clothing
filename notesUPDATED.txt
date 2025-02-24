@@ -119,6 +119,7 @@ Women.css
 Women.html/css
     deleted gold necklace sections
     deleted rose gold ring sections
+    updated accessories classes
 Women.html
     updated accessories classes
 Women.css
