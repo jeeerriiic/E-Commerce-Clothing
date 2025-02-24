@@ -170,8 +170,7 @@ nav a {
 }
 /* same styles */
 
-/* women tops */
-/* tops images */
+/* tops*/
 .topsContentContainer img {
     border: 2px solid #fff;
 }
@@ -195,32 +194,21 @@ nav a {
     width: 325px;
     height: 357px;
 }
-/* tops images */
-/* women tops */
+/* tops*/
 
-/* women pants */
+/* pants */
 .pantsMainCont {
     justify-content: space-evenly;
 }
 
-/* skinny jeans */
-.skinnyJeansImg img {
+.pantsContentContainerImgs img {
     width: 425px;
     height: 525px;
     border: 2px solid #fff;
 }
-/* skinny jeans */
+/* pants */
 
-/* loose jeans */
-.looseJeansImg img {
-    width: 425px;
-    height: 525px;
-    border: 2px solid #fff;
-}
-/* loose jeans */
-/* women pants */
-
-/* women accessories */
+/* accessories */
 .accessoriesContentContainerImgsW img {
     width: 500px;
     height: 350px;
@@ -232,7 +220,7 @@ nav a {
     height: 372px;
     border: 2px solid #fff;
 }
-/* women accessories */
+/* accessories */
 
 /* footer */
 footer {
@@ -286,7 +274,6 @@ footer a:hover {
 @media (max-width: 1280px) {
     .container {
         max-width: 1024px;
-        border: 2px solid red;
     }
 
     header {
@@ -303,6 +290,40 @@ footer a:hover {
 
     .topsHeader, .pantsHeader, .accessoriesHeader {
         font-size: 4.5rem;
+    }
+
+    .blackCropTop img {
+        width: 450px;
+        height: 350px;
+    }
+
+    .breakAway img {
+        width: 450px;
+        height: 328px;
+    }
+    
+    .denimJacket img {
+        width: 250px;
+        height: 328px;
+    }
+    
+    .customTops img {
+        width: 275px;
+        height: 307px;
+    }
+
+    .pantsContentContainerImgs img {
+        width: 375px;
+        height: 475px;
+    }
+
+    .accessoriesContentContainerImgsW img {
+        width: 475px;
+        height: 300px;
+    }
+    
+    .accessoriesContentContainerImgsH img {
+        height: 322px;
     }
 
     footer {

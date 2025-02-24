@@ -116,6 +116,10 @@ Women.css
     finished pants section
 
 2/23-24/25
+Men.css
+    .pantsMainCont
+        added "justify content: space evenly"
+
 Women.html/css
     deleted gold necklace sections
     deleted rose gold ring sections
@@ -126,3 +130,5 @@ Women.css
     finished accessories sections
     setup @media queries
     adjust img dimensions in each @media from XL-S
+    - @media -
+        finished XL media query

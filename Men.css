@@ -170,31 +170,33 @@ nav a {
 }
 /* same styles */
 
-/* tops images */
+/* tops */
 .topsContentContainerImgs img {
     width: 328px;
     height: 500px;
     border: 2px solid #fff;
 }
-/* tops images */
 
-/* tops images custom  */
 .heartBreakImgCustom img {
     width: 340px;
     height: 500px;
     border: 2px solid #fff;
 }
-/* tops images custom */
+/* tops */
 
-/* pants images */
+/* pants */
+.pantsMainCont {
+    justify-content: space-evenly;
+}
+
 .pantsContentContainerImgs img {
     width: 650px;
     height: 400px;
     border: 2px solid #fff;
 }
-/* pants images */
+/* pants */
 
-/* accessories images */
+/* accessories */
 /* Width */
 .accessoriesContentContainerImgsW img {
     width: 500px;
@@ -224,7 +226,7 @@ nav a {
     border: 2px solid #fff;
 }
 /* Custom */
-/* accessories images */
+/* accessories */
 
 /* footer */
 footer {
