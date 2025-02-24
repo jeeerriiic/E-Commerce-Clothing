@@ -114,3 +114,7 @@ Women.css
 2/22/25
 Women.css
     finished pants section
+
+2/23/25
+Women.html/css
+    deleted gold necklace sections
